@@ -31,8 +31,8 @@
     {
       "id": "p05",
       "nombre": "Kromosoman",
-      "riotId": "{PENDIENTE}",
-      "rol": "FLEX",
+      "riotId": "Kromosomen#LPDWZ",
+      "rol": "MEDIO",
       "estado": "activo"
     },
     {
@@ -53,14 +53,14 @@
       "id": "p08",
       "nombre": "Skyhoten",
       "riotId": "Franqueiro#LAS",
-      "rol": "FLEX",
+      "rol": "TOP",
       "estado": "activo"
     },
     {
       "id": "p09",
       "nombre": "Martin",
-      "riotId": "{PENDIENTE}",
-      "rol": "FLEX",
+      "riotId": "NikyAll9#LAS",
+      "rol": "TOP",
       "estado": "activo"
     },
     {

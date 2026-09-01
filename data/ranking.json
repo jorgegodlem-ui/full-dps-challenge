@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-01T17:36:05.573Z",
+  "actualizado": "2026-09-01T17:40:24.959Z",
   "fuente": "riot-api",
   "jugadores": [
     {
@@ -85,10 +85,10 @@
     {
       "id": "p05",
       "nombre": "Kromosoman",
-      "riotId": "{PENDIENTE}",
-      "rol": "FLEX",
+      "riotId": "Kromosomen#LPDWZ",
+      "rol": "MEDIO",
       "estado": "activo",
-      "puuid": "",
+      "puuid": "ANrUMkpYkUJ0-gaN2KGEvpyAy_xYpWgY35_b69jBlC8tiw-iBEVigDq83L7FqPcHmhqhtmzrZ5N0YA",
       "tier": "",
       "division": "",
       "lp": 0,
@@ -100,7 +100,7 @@
       },
       "deltaLp": 0,
       "posAnterior": 5,
-      "opgg": ""
+      "opgg": "https://op.gg/lol/summoners/las/Kromosomen-LPDWZ"
     },
     {
       "id": "p06",
@@ -146,7 +146,7 @@
       "id": "p08",
       "nombre": "Skyhoten",
       "riotId": "Franqueiro#LAS",
-      "rol": "FLEX",
+      "rol": "TOP",
       "estado": "activo",
       "puuid": "9GPWliD8JQvYel1Mzmpu5gpN-C9z0cX5teOhmD-H9j5s0ITAJQ-EvuCfVm0Im3YGyjlwLG6Lm04YcA",
       "tier": "",
@@ -165,10 +165,10 @@
     {
       "id": "p09",
       "nombre": "Martin",
-      "riotId": "{PENDIENTE}",
-      "rol": "FLEX",
+      "riotId": "NikyAll9#LAS",
+      "rol": "TOP",
       "estado": "activo",
-      "puuid": "",
+      "puuid": "kpkB_zMHYD_vVGTNLPZMUwnn-OUujn7D71YHixoVA2EC6Q71ccGJVEVUA8zQuoPliQT6qgdoEHeLRg",
       "tier": "",
       "division": "",
       "lp": 0,
@@ -180,7 +180,7 @@
       },
       "deltaLp": 0,
       "posAnterior": 9,
-      "opgg": ""
+      "opgg": "https://op.gg/lol/summoners/las/NikyAll9-LAS"
     },
     {
       "id": "p10",
