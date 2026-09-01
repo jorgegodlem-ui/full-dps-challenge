@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-01T21:26:34.154Z",
+  "actualizado": "2026-09-01T22:08:47.738Z",
   "fuente": "riot-api",
   "jugadores": [
     {
@@ -157,7 +157,7 @@
       "division": "",
       "lp": 0,
       "victorias": 2,
-      "derrotas": 1,
+      "derrotas": 0,
       "racha": {
         "tipo": "W",
         "n": 0
@@ -165,7 +165,7 @@
       "deltaLp": 0,
       "posAnterior": 8,
       "opgg": "https://op.gg/lol/summoners/las/Franqueiro-LAS",
-      "clasificatorias": 3
+      "clasificatorias": 2
     },
     {
       "id": "p09",

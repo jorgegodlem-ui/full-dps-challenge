@@ -13,7 +13,7 @@
 - Servidor **LAS**. Solo puntúa la cuenta registrada: lo que juegues en cualquier otra no existe para el torneo.
 - Solo cuenta **ranked SoloQ**. Flex, normales, ARAM y arenas no suman nada.
 - La cuenta la juegas **tú**. Prestarla es descalificación directa, sin discusión.
-- **No hay mínimo ni tope de partidas.** Juegas las que quieras, cuando quieras. Un dodge no cuenta como partida jugada, pero el LP que pierdes sí se refleja.
+- **No hay mínimo ni tope de partidas.** Juegas las que quieras, cuando quieras. Un dodge no cuenta como partida jugada, pero el LP que pierdes sí se refleja. Un **remake** no cuenta como nada: Riot lo anula, no toca tu LP ni avanza tus clasificatorias, y el ranking hace lo mismo.
 
 ## 2. Cómo se verifica
 

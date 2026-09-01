@@ -124,6 +124,9 @@ async function buscarClasificatorias(puuid, desde){
     const m = await api(RUTEO, `/lol/match/v5/matches/${id}`);
     const yo = m?.info?.participants?.find(p => p.puuid === puuid);
     if (!yo) continue;
+    // Un remake queda anulado: Riot no lo cuenta como partida jugada, no toca el LP
+    // y no avanza las clasificatorias. El torneo lo trata igual.
+    if (yo.gameEndedInEarlySurrender) continue;
     if (yo.win) victorias++; else derrotas++;
   }
   return { jugadas: victorias + derrotas, victorias, derrotas };
