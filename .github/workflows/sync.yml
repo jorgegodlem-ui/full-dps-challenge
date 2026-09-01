@@ -2,7 +2,10 @@ name: Actualizar ranking
 
 on:
   schedule:
-    - cron: "*/15 * * * *"
+    # Minutos raros a proposito: GitHub retrasa las corridas programadas cuando
+    # hay mucha carga, y los peores momentos son en punto y a los cuartos de hora.
+    # Correr en :07 :22 :37 :52 baja bastante la probabilidad de que se salte.
+    - cron: "7,22,37,52 * * * *"
   workflow_dispatch:
 
 permissions:
