@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-01T20:49:06.871Z",
+  "actualizado": "2026-09-01T21:26:34.154Z",
   "fuente": "riot-api",
   "jugadores": [
     {
@@ -33,7 +33,7 @@
       "tier": "",
       "division": "",
       "lp": 0,
-      "victorias": 0,
+      "victorias": 1,
       "derrotas": 1,
       "racha": {
         "tipo": "W",
@@ -42,7 +42,7 @@
       "deltaLp": 0,
       "posAnterior": 2,
       "opgg": "https://op.gg/lol/summoners/las/Chutinho-Chuto",
-      "clasificatorias": 1
+      "clasificatorias": 2
     },
     {
       "id": "p03",
