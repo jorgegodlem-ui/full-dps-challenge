@@ -17,6 +17,7 @@
 
 import { readFile, writeFile } from "node:fs/promises";
 import { existsSync } from "node:fs";
+import { fileURLToPath } from "node:url";
 
 const KEY = process.env.RIOT_API_KEY;
 if (!KEY) {
@@ -24,7 +25,9 @@ if (!KEY) {
   process.exit(1);
 }
 
-const RAIZ = new URL("..", import.meta.url).pathname;
+// fileURLToPath y no .pathname: en Windows .pathname devuelve "/C:/..." con los
+// espacios codificados como %20, y fs no sabe abrir eso.
+const RAIZ = fileURLToPath(new URL("../", import.meta.url));
 const F_CONFIG = RAIZ + "data/config.json";
 const F_PART = RAIZ + "data/participantes.json";
 const F_RANK = RAIZ + "data/ranking.json";
