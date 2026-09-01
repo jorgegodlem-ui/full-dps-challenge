@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-01T22:11:09.517Z",
+  "actualizado": "2026-09-01T23:32:34.953Z",
   "fuente": "riot-api",
   "jugadores": [
     {
@@ -33,7 +33,7 @@
       "tier": "",
       "division": "",
       "lp": 0,
-      "victorias": 1,
+      "victorias": 2,
       "derrotas": 1,
       "racha": {
         "tipo": "W",
@@ -42,7 +42,7 @@
       "deltaLp": 0,
       "posAnterior": 2,
       "opgg": "https://op.gg/lol/summoners/las/Chutinho-Chuto",
-      "clasificatorias": 2
+      "clasificatorias": 3
     },
     {
       "id": "p03",
@@ -156,7 +156,7 @@
       "tier": "",
       "division": "",
       "lp": 0,
-      "victorias": 2,
+      "victorias": 3,
       "derrotas": 0,
       "racha": {
         "tipo": "W",
@@ -165,7 +165,7 @@
       "deltaLp": 0,
       "posAnterior": 8,
       "opgg": "https://op.gg/lol/summoners/las/Franqueiro-LAS",
-      "clasificatorias": 2
+      "clasificatorias": 3
     },
     {
       "id": "p09",
@@ -177,7 +177,7 @@
       "tier": "",
       "division": "",
       "lp": 0,
-      "victorias": 0,
+      "victorias": 1,
       "derrotas": 0,
       "racha": {
         "tipo": "W",
@@ -186,7 +186,7 @@
       "deltaLp": 0,
       "posAnterior": 9,
       "opgg": "https://op.gg/lol/summoners/las/NikyAll9-LAS",
-      "clasificatorias": 0
+      "clasificatorias": 1
     },
     {
       "id": "p10",
