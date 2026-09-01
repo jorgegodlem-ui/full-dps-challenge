@@ -28,7 +28,11 @@ function lpTotal(j){
 }
 function eloTexto(j){
   const t = String(j.tier || "").toUpperCase();
-  if (!t) return "Sin rango";
+  // Riot no asigna rango hasta las 5 clasificatorias: mientras tanto se muestra el avance,
+  // porque "Sin rango" hacía parecer que el jugador no estaba jugando.
+  if (!t) return typeof j.clasificatorias === "number" && j.clasificatorias > 0
+    ? `Clasificatorias ${Math.min(j.clasificatorias, 5)}/5`
+    : "Sin rango";
   const nombre = t.charAt(0) + t.slice(1).toLowerCase();
   return TIERS.indexOf(t) >= 7 ? nombre : `${nombre} ${j.division || ""}`.trim();
 }
@@ -241,7 +245,7 @@ function pintarTabla(){
       <td><span class="role">${esc(ROLES[j.rol] || j.rol || "—")}</span></td>
       <td>
         <div class="meter">
-          <div class="top"><span class="elo">${esc(eloTexto(j))}</span><span class="lp">${j.lp || 0} LP</span></div>
+          <div class="top"><span class="elo">${esc(eloTexto(j))}</span>${j.tier ? `<span class="lp">${j.lp || 0} LP</span>` : ""}</div>
           <div class="bar"><i style="width:${pct}%"></i></div>
         </div>
       </td>

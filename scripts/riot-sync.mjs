@@ -39,6 +39,8 @@ const dormir = ms => new Promise(r => setTimeout(r, ms));
 const config = JSON.parse(await readFile(F_CONFIG, "utf8"));
 const PLATAFORMA = config.plataforma || "la2";          // LAS = la2, LAN = la1
 const RUTEO = config.ruteo || "americas";
+// match-v5 espera segundos, no milisegundos
+const DESDE = Math.floor(new Date(`${config.inicio}T${config.horaInicio || "00:00"}:00${config.utcOffset || "-04:00"}`).getTime() / 1000);
 
 /* ---------- cliente HTTP con reintentos ---------- */
 
@@ -107,6 +109,24 @@ async function buscarRacha(puuid) {
     n++;
   }
   return { tipo: tipo || "W", n };
+}
+
+/* Cuando Riot todavia no asigna rango en SoloQ (faltan clasificatorias), league-v4
+   no devuelve nada y el jugador se ve congelado en 0 aunque este jugando. Estas
+   partidas si estan en match-v5, asi que se cuentan de ahi. Solo se consulta para
+   quienes no tienen rango: en cuanto Riot los clasifica, deja de costar requests. */
+async function buscarClasificatorias(puuid, desde){
+  const ids = await api(RUTEO, `/lol/match/v5/matches/by-puuid/${puuid}/ids?queue=420&startTime=${desde}&count=10`);
+  if (!Array.isArray(ids) || !ids.length) return { jugadas: 0, victorias: 0, derrotas: 0 };
+  let victorias = 0, derrotas = 0;
+  for (const id of ids) {
+    await dormir(PAUSA);
+    const m = await api(RUTEO, `/lol/match/v5/matches/${id}`);
+    const yo = m?.info?.participants?.find(p => p.puuid === puuid);
+    if (!yo) continue;
+    if (yo.win) victorias++; else derrotas++;
+  }
+  return { jugadas: victorias + derrotas, victorias, derrotas };
 }
 
 /* ---------- historial para el ±LP de 24 h ---------- */
@@ -180,8 +200,15 @@ for (const p of participantes) {
       fila.lp = liga.leaguePoints || 0;
       fila.victorias = liga.wins || 0;
       fila.derrotas = liga.losses || 0;
+      delete fila.clasificatorias;
     } else {
+      // sin rango en SoloQ: se muestra el avance de las clasificatorias
       fila.tier = ""; fila.division = ""; fila.lp = 0;
+      const cl = await buscarClasificatorias(fila.puuid, DESDE);
+      await dormir(PAUSA);
+      fila.clasificatorias = cl.jugadas;
+      fila.victorias = cl.victorias;
+      fila.derrotas = cl.derrotas;
     }
 
     if (process.env.RIOT_STREAK === "1") {
@@ -194,7 +221,8 @@ for (const p of participantes) {
       fila.opgg = `https://op.gg/lol/summoners/${PLATAFORMA === "la1" ? "lan" : "las"}/${encodeURIComponent(n)}-${encodeURIComponent(t)}`;
     }
 
-    console.log(`  ✓ ${p.nombre}: ${fila.tier} ${fila.division} ${fila.lp} LP (${fila.victorias}V/${fila.derrotas}D)`);
+    const estado = fila.tier ? `${fila.tier} ${fila.division} ${fila.lp} LP` : `clasificatorias ${fila.clasificatorias || 0}/5`;
+    console.log(`  ✓ ${p.nombre}: ${estado} (${fila.victorias}V/${fila.derrotas}D)`);
   } catch (e) {
     fallaron++;
     console.error(`  ! ${p.nombre}: ${e.message}`);

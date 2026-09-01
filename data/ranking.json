@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-01T18:37:26.971Z",
+  "actualizado": "2026-09-01T20:46:44.621Z",
   "fuente": "riot-api",
   "jugadores": [
     {
@@ -12,15 +12,16 @@
       "tier": "",
       "division": "",
       "lp": 0,
-      "victorias": 0,
-      "derrotas": 0,
+      "victorias": 1,
+      "derrotas": 2,
       "racha": {
         "tipo": "W",
         "n": 0
       },
       "deltaLp": 0,
       "posAnterior": 1,
-      "opgg": "https://op.gg/lol/summoners/las/Thortito-3013"
+      "opgg": "https://op.gg/lol/summoners/las/Thortito-3013",
+      "clasificatorias": 3
     },
     {
       "id": "p02",
@@ -33,14 +34,15 @@
       "division": "",
       "lp": 0,
       "victorias": 0,
-      "derrotas": 0,
+      "derrotas": 1,
       "racha": {
         "tipo": "W",
         "n": 0
       },
       "deltaLp": 0,
       "posAnterior": 2,
-      "opgg": "https://op.gg/lol/summoners/las/Chutinho-Chuto"
+      "opgg": "https://op.gg/lol/summoners/las/Chutinho-Chuto",
+      "clasificatorias": 1
     },
     {
       "id": "p03",
@@ -52,15 +54,16 @@
       "tier": "",
       "division": "",
       "lp": 0,
-      "victorias": 0,
-      "derrotas": 0,
+      "victorias": 1,
+      "derrotas": 1,
       "racha": {
         "tipo": "W",
         "n": 0
       },
       "deltaLp": 0,
       "posAnterior": 3,
-      "opgg": "https://op.gg/lol/summoners/las/ShawKDT-LAS"
+      "opgg": "https://op.gg/lol/summoners/las/ShawKDT-LAS",
+      "clasificatorias": 2
     },
     {
       "id": "p04",
@@ -100,7 +103,8 @@
       },
       "deltaLp": 0,
       "posAnterior": 5,
-      "opgg": "https://op.gg/lol/summoners/las/Kromosomen-LPDWZ"
+      "opgg": "https://op.gg/lol/summoners/las/Kromosomen-LPDWZ",
+      "clasificatorias": 0
     },
     {
       "id": "p06",
@@ -152,15 +156,16 @@
       "tier": "",
       "division": "",
       "lp": 0,
-      "victorias": 0,
-      "derrotas": 0,
+      "victorias": 2,
+      "derrotas": 1,
       "racha": {
         "tipo": "W",
         "n": 0
       },
       "deltaLp": 0,
       "posAnterior": 8,
-      "opgg": "https://op.gg/lol/summoners/las/Franqueiro-LAS"
+      "opgg": "https://op.gg/lol/summoners/las/Franqueiro-LAS",
+      "clasificatorias": 3
     },
     {
       "id": "p09",
@@ -180,7 +185,8 @@
       },
       "deltaLp": 0,
       "posAnterior": 9,
-      "opgg": "https://op.gg/lol/summoners/las/NikyAll9-LAS"
+      "opgg": "https://op.gg/lol/summoners/las/NikyAll9-LAS",
+      "clasificatorias": 0
     },
     {
       "id": "p10",
@@ -192,7 +198,7 @@
       "tier": "",
       "division": "",
       "lp": 0,
-      "victorias": 0,
+      "victorias": 1,
       "derrotas": 0,
       "racha": {
         "tipo": "W",
@@ -200,7 +206,8 @@
       },
       "deltaLp": 0,
       "posAnterior": 10,
-      "opgg": "https://op.gg/lol/summoners/las/Chapayev-LAS"
+      "opgg": "https://op.gg/lol/summoners/las/Chapayev-LAS",
+      "clasificatorias": 1
     },
     {
       "id": "p11",
