@@ -150,6 +150,8 @@ for (const p of participantes) {
   };
 
   if (String(p.riotId).includes("{")) {
+    // sin cuenta confirmada no hay perfil que enlazar: se limpia el opgg viejo
+    fila.opgg = "";
     console.log(`  – ${p.nombre}: sin Riot ID todavía, se deja como está`);
     salida.push(fila);
     continue;
