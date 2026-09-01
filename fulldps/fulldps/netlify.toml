@@ -1,0 +1,17 @@
+# Configuración de Netlify para un sitio estático en la raíz.
+
+[build]
+  publish = "."
+  command = ""
+
+# El ranking cambia cada 15 minutos: si el CDN lo cachea, la gente ve datos viejos.
+[[headers]]
+  for = "/data/*.json"
+  [headers.values]
+    Cache-Control = "public, max-age=0, must-revalidate"
+
+# Los assets sí se pueden cachear un rato.
+[[headers]]
+  for = "/assets/*"
+  [headers.values]
+    Cache-Control = "public, max-age=3600"
