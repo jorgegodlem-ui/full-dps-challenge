@@ -1,0 +1,37 @@
+name: Actualizar ranking
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ranking
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Consultar la API de Riot
+        env:
+          RIOT_API_KEY: ${{ secrets.RIOT_API_KEY }}
+          RIOT_STREAK: "0"
+        run: node scripts/riot-sync.mjs
+
+      - name: Commitear si cambió algo
+        run: |
+          git config user.name "ranking-bot"
+          git config user.email "actions@github.com"
+          git add data/ranking.json data/historial.json
+          git diff --staged --quiet || git commit -m "ranking: $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push
