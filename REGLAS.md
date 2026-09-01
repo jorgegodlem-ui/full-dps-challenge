@@ -1,9 +1,9 @@
 # FULL DPS CHALLENGE — Reglas para participantes
 
 **Formato:** individual, SoloQ, servidor LAS.
-**Duración:** del {FECHA INICIO} al {FECHA CIERRE}, {HORA} de Chile.
+**Duración:** del martes 1 de septiembre al lunes 28 de septiembre de 2026. Cierra a las **23:59** de Chile.
 **Gana:** el que tenga más LP total al momento del cierre.
-**Dónde se sigue:** el ranking se actualiza solo en {URL DEL SITIO}. La transmisión oficial del torneo va por {PROYECTO GORDOS}.
+**Dónde se sigue:** el ranking se actualiza solo en https://comfy-palmier-f0a6ec.netlify.app. La transmisión oficial del torneo va por **Proyecto Gordos** (https://kick.com/proyecto-gordos).
 
 ---
 
@@ -27,16 +27,10 @@
 - **Nada de duo con otro participante.** Se detecta cruzando los historiales: si dos inscritos aparecen en la misma partida del mismo lado, salta.
 - **Win trading, boosteo o partidas arregladas:** descalificación y se anula todo tu recorrido.
 - Prohibido pagar o recibir pago por partidas jugadas en la cuenta del torneo.
+- **Suspensión de cuenta** por conducta de Riot: quedas fuera del torneo.
 - Si una partida se ve rara, la organización puede pedirte una explicación antes de validarla.
 
-## 4. Conducta
-
-- **Chat restriction de Riot:** −150 LP y 24 horas sin poder jugar.
-- **Suspensión de cuenta:** quedas fuera del torneo.
-- **Feed intencional o AFK reiterado**, verificado con el detalle de la partida: −250 LP.
-- Los castigos se publican en el sitio, con el jugador y el motivo. Nadie se entera por debajo de la mesa.
-
-## 5. El cierre
+## 4. El cierre
 
 - Gana el **LP total más alto** a la hora que marca el contador del sitio.
 - **Empate:** gana el mejor winrate. Si sigue empatado, el que jugó más partidas.

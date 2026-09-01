@@ -11,7 +11,6 @@ const ROLES = { TOP:"Top", JUNGLA:"Jungla", MEDIO:"Medio", ADC:"ADC", SUPPORT:"S
 const state = {
   config: null,
   data: null,
-  filtro: "todos",
   busqueda: "",
   orden: { campo: "lp", dir: "desc" }
 };
@@ -167,7 +166,6 @@ function pintarCanalOficial(){
 function filtrar(js){
   const q = state.busqueda.trim().toLowerCase();
   return js.filter(j => {
-    if (state.filtro === "castigos" && j.estado === "activo") return false;
     if (q) {
       const heno = `${j.nombre} ${j.riotId} ${j.rol}`.toLowerCase();
       if (!heno.includes(q)) return false;
@@ -202,14 +200,11 @@ function pintarTabla(){
   const posicion = new Map(oficial.filter(activo).map((j, i) => [j.id, i + 1]));
   const tope = Math.max(1, ...oficial.map(lpTotal));
 
-  $("#fTodos .n").textContent = todos.filter(activo).length;
-  $("#fCastigos .n").textContent = todos.filter(j => j.estado && j.estado !== "activo").length;
-
   const lista = ordenar(filtrar(todos));
   const tb = $("#rankBody");
 
   if (!lista.length) {
-    tb.innerHTML = `<tr><td colspan="9"><div class="empty-row">Sin resultados para ese filtro.</div></td></tr>`;
+    tb.innerHTML = `<tr><td colspan="9"><div class="empty-row">Nadie coincide con esa búsqueda.</div></td></tr>`;
     return;
   }
 
@@ -237,10 +232,9 @@ function pintarTabla(){
           <span class="av">${esc(inicial(j.nombre))}</span>
           <span class="who">
             <span class="nm">${esc(j.nombre)}
-              ${j.estado === "castigo" ? '<span class="badge-out">CASTIGO</span>' : ""}
               ${j.estado === "fuera" ? '<span class="badge-out">FUERA</span>' : ""}
             </span>
-            <span class="rid">${esc(j.riotId || "")}</span>
+            <span class="rid">${j.riotId && !j.riotId.includes("{") ? esc(j.riotId) : "cuenta por confirmar"}</span>
           </span>
         </div>
       </td>
@@ -278,14 +272,6 @@ function pintarRacha(r){
 /* ---------- interacción ---------- */
 
 function conectarUI(){
-  $$(".filter").forEach(b => {
-    b.addEventListener("click", () => {
-      state.filtro = b.dataset.filtro;
-      $$(".filter").forEach(x => x.setAttribute("aria-pressed", String(x === b)));
-      pintarTabla();
-    });
-  });
-
   $("#buscador").addEventListener("input", e => {
     state.busqueda = e.target.value;
     pintarTabla();

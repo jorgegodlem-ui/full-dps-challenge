@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>FULL DPS CHALLENGE — Ranking en vivo</title>
-<meta name="description" content="Ranking en vivo del FULL DPS CHALLENGE: clasificación de SoloQ en LAS, normas y castigos.">
+<meta name="description" content="Ranking en vivo del FULL DPS CHALLENGE: clasificación de SoloQ en LAS y normas del torneo.">
 <meta property="og:title" content="FULL DPS CHALLENGE">
 <meta property="og:description" content="Ranking en vivo del torneo de SoloQ.">
 <meta property="og:type" content="website">
@@ -75,10 +75,6 @@
     </div>
 
     <div class="controls">
-      <div class="filters">
-        <button class="filter" id="fTodos" data-filtro="todos" aria-pressed="true">Todos <span class="n">0</span></button>
-        <button class="filter" id="fCastigos" data-filtro="castigos" aria-pressed="false">Castigos <span class="n">0</span></button>
-      </div>
       <div class="search">
         <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
         <input id="buscador" type="search" placeholder="Buscar jugador o Riot ID" aria-label="Buscar jugador">
@@ -145,22 +141,13 @@
           <li><b>Prohibido el duo</b> con otro participante. Se detecta cruzando los historiales de partidas.</li>
           <li>Prohibido el <b>win trading</b>, el boosteo y cualquier arreglo de partidas. <span class="pen">Descalificación.</span></li>
           <li>Prohibido pagar o recibir pago por partidas de la cuenta del torneo.</li>
+          <li><b>Suspensión de cuenta</b> por conducta de Riot: quedas fuera del torneo.</li>
           <li>Ante duda razonable, la organización puede pedir explicación de una partida antes de validarla.</li>
         </ul>
       </div>
 
       <div class="rule-card">
-        <h3><span class="ix">04</span> Conducta</h3>
-        <ul>
-          <li><b>Chat restriction</b> de Riot: <span class="pen">−150 LP</span> y 24 horas sin poder jugar.</li>
-          <li><b>Suspensión de cuenta</b> por conducta: descalificación del torneo.</li>
-          <li>Feed intencional o AFK reiterado, verificado con el detalle de la partida: <span class="pen">−250 LP</span>.</li>
-          <li>Todo castigo se publica en esta página con el jugador y el motivo. Nada se resuelve por debajo de la mesa.</li>
-        </ul>
-      </div>
-
-      <div class="rule-card">
-        <h3><span class="ix">05</span> El cierre</h3>
+        <h3><span class="ix">04</span> El cierre</h3>
         <ul>
           <li>Gana el <b>LP total más alto</b> a la hora de cierre publicada en el contador.</li>
           <li>Empate: gana quien tenga <b>mejor winrate</b>; si persiste, quien jugó más partidas.</li>
@@ -198,9 +185,9 @@
         <p>Victorias o derrotas seguidas en el momento de la última lectura de la API.</p>
       </div>
       <div class="score-box">
-        <div class="k">Castigos</div>
-        <div class="v">En LP</div>
-        <p>Las sanciones se descuentan del LP total y quedan visibles en el filtro de castigos. Nada se aplica sin aviso público.</p>
+        <div class="k">Movimiento</div>
+        <div class="v">▲ / ▼</div>
+        <p>El número al lado de la posición es cuántos puestos subió o bajó cada uno desde la lectura anterior de la API.</p>
       </div>
     </div>
   </div>

@@ -4,9 +4,9 @@
   "region": "LAS",
   "plataforma": "la2",
   "ruteo": "americas",
-  "inicio": "2026-09-15",
-  "fin": "2026-10-12",
-  "horaInicio": "12:00",
+  "inicio": "2026-09-01",
+  "fin": "2026-09-28",
+  "horaInicio": "00:00",
   "horaCierre": "23:59",
   "utcOffset": "-03:00",
   "notas": {
@@ -14,10 +14,10 @@
     "utcOffset": "Chile continental: -03:00 en horario de verano (septiembre a abril), -04:00 el resto del año."
   },
   "canalOficial": {
-    "nombre": "{PROYECTO GORDOS}",
+    "nombre": "Proyecto Gordos",
     "plataforma": "Kick",
     "url": "https://kick.com/proyecto-gordos",
-    "live": true,
+    "live": false,
     "descripcion": "Transmisión oficial del torneo"
   }
 }

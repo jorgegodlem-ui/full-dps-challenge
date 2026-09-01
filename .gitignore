@@ -1,0 +1,10 @@
+# La API key de Riot NUNCA se sube. Va acá en local y como secret en GitHub Actions.
+.env
+.env.local
+
+# Basura del sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+node_modules/

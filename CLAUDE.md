@@ -11,9 +11,10 @@ Sitio del torneo de SoloQ de League of Legends. Ranking en vivo alimentado por l
 - El torneo es **individual**. No hay equipos ni duos.  
 - Los participantes **NO son streamers**. No existen reglas de directo, VOD ni modo streamer, y no hay columna ni badge de "en vivo" para ellos.  
 - El único canal que aparece es la **transmisión oficial de la organización** (Proyecto Gordos), configurado en `data/config.json` → `canalOficial`. Su estado `live` se cambia a mano, a propósito.  
+- **No hay castigos.** El torneo no descuenta LP por conducta ni publica sanciones. Se sacaron el filtro de castigos, el badge, la tarjeta de normas "Conducta" y la caja de puntaje. Lo único que queda es la **descalificación** (account sharing, win trading, suspensión de cuenta), y para eso está el estado `fuera`.
 - **No hay premios.** No agregar una sección de premios.  
 - **No hay mínimo ni tope de partidas.**  
-- **No hay tramos de high elo / low elo.** Los filtros son solo Todos y Castigos.  
+- **No hay tramos de high elo / low elo.** Tampoco hay filtros: sobre la tabla queda solo el buscador.  
 - El proyecto no tiene relación con el canal de Kick del dueño más allá de ser la transmisión oficial; no mezclar ambos proyectos.
 
 ## Estructura
@@ -52,12 +53,16 @@ python3 \-m http.server 8000                          \# servir local
 
 ## Estado y pendientes
 
-- [ ] Cargar el secret `RIOT_API_KEY` en GitHub (Settings → Secrets → Actions). La development key de Riot **expira cada 24 h** y hay que renovar el secret.  
-- [ ] Reemplazar los `{JUGADOR 01}` de `data/participantes.json` por los Riot ID reales.  
-- [ ] Poner las fechas reales en `data/config.json` (hoy tiene valores inventados).  
-- [ ] Poner el nombre real del canal en `canalOficial.nombre` (hoy `{PROYECTO GORDOS}`).  
-- [ ] Cambiar el nombre del sitio en Netlify a algo presentable.  
+El torneo **arrancó el 1 de septiembre de 2026** y cierra el **28 de septiembre a las 23:59** de Chile.
+
+- [ ] **Cargar el secret `RIOT_API_KEY` en GitHub** (Settings → Secrets → Actions). Es lo único que falta para que el ranking se llene solo. La development key de Riot **expira cada 24 h** y hay que renovar el secret.
+- [ ] Completar los Riot ID que faltan en `data/participantes.json`: Sutter, Kromosoman, Gamblez, Charwo y Patrick están como `{PENDIENTE}` porque todavía no tienen cuenta. El script los salta sin romperse y la tabla los muestra como "cuenta por confirmar".
+- [ ] Poner el **rol real** de cada jugador. Hoy están todos en `FLEX` porque no se informaron.
+- [ ] Poner `canalOficial.live` en `true` cuando la transmisión salga al aire, y en `false` cuando termine. Es a mano, a propósito.
+- [ ] Cambiar el nombre del sitio en Netlify a algo presentable.
 - [ ] Postular la production key de Riot para dejar de renovar a diario.
+
+`data/ranking.json` está con `"fuente": "pendiente"` y todos en 0: son los 11 inscritos reales, sin datos de la API todavía. La primera corrida del script lo reemplaza.
 
 ## Convenciones
 
