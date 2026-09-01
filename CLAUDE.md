@@ -55,7 +55,14 @@ python3 \-m http.server 8000                          \# servir local
 
 El torneo **arrancó el 1 de septiembre de 2026** y cierra el **28 de septiembre a las 23:59** de Chile.
 
-- [ ] **Cargar el secret `RIOT_API_KEY` en GitHub** (Settings → Secrets → Actions). Es lo único que falta para que el ranking se llene solo. La development key de Riot **expira cada 24 h** y hay que renovar el secret.
+- [x] ~~Cargar el secret `RIOT_API_KEY` en GitHub.~~ Hecho: el workflow corre solo y commitea.
+- [ ] **Renovar la key todos los días.** La development key de Riot muere a las 24 h y el workflow empieza a fallar en rojo. El camino que funciona, sin copiar y pegar a mano:
+
+  ```bash
+  notepad .env                                    # pegar la key nueva
+  node -e "const fs=require(fs);process.stdout.write((fs.readFileSync(.env,utf8).match(/^\s*RIOT_API_KEY\s*=\s*(.*)$/m)||[])[1].trim())" | gh secret set RIOT_API_KEY --repo jorgegodlem-ui/full-dps-challenge
+  ```
+
 - [ ] Completar los Riot ID que faltan en `data/participantes.json`: Sutter, Kromosoman, Gamblez, Charwo y Patrick están como `{PENDIENTE}` porque todavía no tienen cuenta. El script los salta sin romperse y la tabla los muestra como "cuenta por confirmar".
 - [ ] Poner el **rol real** de cada jugador. Hoy están todos en `FLEX` porque no se informaron.
 - [ ] Poner `canalOficial.live` en `true` cuando la transmisión salga al aire, y en `false` cuando termine. Es a mano, a propósito.
