@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-01T17:08:52.985Z",
-  "fuente": "pendiente",
+  "actualizado": "2026-09-01T17:25:33.860Z",
+  "fuente": "riot-api",
   "jugadores": [
     {
       "id": "p01",
@@ -8,7 +8,7 @@
       "riotId": "Thortito#3013",
       "rol": "FLEX",
       "estado": "activo",
-      "puuid": "",
+      "puuid": "LDlQk5HoshNk-T5ke0jwfmFGOK3GNZ5nWbmf-gQgD6niVe6wJ3yUsLQTEKLuHdLRwslLr1gXLrir5w",
       "tier": "",
       "division": "",
       "lp": 0,
@@ -19,7 +19,7 @@
         "n": 0
       },
       "deltaLp": 0,
-      "posAnterior": 0,
+      "posAnterior": 1,
       "opgg": "https://op.gg/lol/summoners/las/Thortito-3013"
     },
     {
@@ -28,7 +28,7 @@
       "riotId": "Chutinho#Chuto",
       "rol": "FLEX",
       "estado": "activo",
-      "puuid": "",
+      "puuid": "tKohNkASXpcYroH_kM-cidgyoWyTx-n9PEwqORxSsREKnpIcW_a8kYgltJoG9K6G_GT9SzRrZeB6kQ",
       "tier": "",
       "division": "",
       "lp": 0,
@@ -39,7 +39,7 @@
         "n": 0
       },
       "deltaLp": 0,
-      "posAnterior": 0,
+      "posAnterior": 2,
       "opgg": "https://op.gg/lol/summoners/las/Chutinho-Chuto"
     },
     {
@@ -48,7 +48,7 @@
       "riotId": "ShawKDT#LAS",
       "rol": "FLEX",
       "estado": "activo",
-      "puuid": "",
+      "puuid": "Qc6e4opXsaC7ShlsysOap5YwjtQQO6H-AbZ47_zIpbVEWvTjU2pUudip3BTzZA2dBLHbzgZ51LXxTg",
       "tier": "",
       "division": "",
       "lp": 0,
@@ -59,7 +59,7 @@
         "n": 0
       },
       "deltaLp": 0,
-      "posAnterior": 0,
+      "posAnterior": 3,
       "opgg": "https://op.gg/lol/summoners/las/ShawKDT-LAS"
     },
     {
@@ -79,7 +79,7 @@
         "n": 0
       },
       "deltaLp": 0,
-      "posAnterior": 0,
+      "posAnterior": 4,
       "opgg": ""
     },
     {
@@ -99,7 +99,7 @@
         "n": 0
       },
       "deltaLp": 0,
-      "posAnterior": 0,
+      "posAnterior": 5,
       "opgg": ""
     },
     {
@@ -119,7 +119,7 @@
         "n": 0
       },
       "deltaLp": 0,
-      "posAnterior": 0,
+      "posAnterior": 6,
       "opgg": ""
     },
     {
@@ -139,7 +139,7 @@
         "n": 0
       },
       "deltaLp": 0,
-      "posAnterior": 0,
+      "posAnterior": 7,
       "opgg": ""
     },
     {
@@ -148,7 +148,7 @@
       "riotId": "Franqueiro#LAS",
       "rol": "FLEX",
       "estado": "activo",
-      "puuid": "",
+      "puuid": "9GPWliD8JQvYel1Mzmpu5gpN-C9z0cX5teOhmD-H9j5s0ITAJQ-EvuCfVm0Im3YGyjlwLG6Lm04YcA",
       "tier": "",
       "division": "",
       "lp": 0,
@@ -159,13 +159,13 @@
         "n": 0
       },
       "deltaLp": 0,
-      "posAnterior": 0,
+      "posAnterior": 8,
       "opgg": "https://op.gg/lol/summoners/las/Franqueiro-LAS"
     },
     {
       "id": "p09",
       "nombre": "Martin",
-      "riotId": "nikyall#Las",
+      "riotId": "{PENDIENTE}",
       "rol": "FLEX",
       "estado": "activo",
       "puuid": "",
@@ -179,7 +179,7 @@
         "n": 0
       },
       "deltaLp": 0,
-      "posAnterior": 0,
+      "posAnterior": 9,
       "opgg": "https://op.gg/lol/summoners/las/nikyall-Las"
     },
     {
@@ -188,7 +188,7 @@
       "riotId": "Chapayev#LAS",
       "rol": "FLEX",
       "estado": "activo",
-      "puuid": "",
+      "puuid": "OTBDejmr_pBCOSjiDZuQxQl68IDoMkc7sS8rFiYdis1evR83heqCtbwRmKpyJhiQPEYfZo734djIdA",
       "tier": "",
       "division": "",
       "lp": 0,
@@ -199,7 +199,7 @@
         "n": 0
       },
       "deltaLp": 0,
-      "posAnterior": 0,
+      "posAnterior": 10,
       "opgg": "https://op.gg/lol/summoners/las/Chapayev-LAS"
     },
     {
@@ -219,7 +219,7 @@
         "n": 0
       },
       "deltaLp": 0,
-      "posAnterior": 0,
+      "posAnterior": 11,
       "opgg": ""
     }
   ]
