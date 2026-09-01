@@ -10,8 +10,14 @@
   [headers.values]
     Cache-Control = "public, max-age=0, must-revalidate"
 
-# Los assets sí se pueden cachear un rato.
+# Los assets también revalidan siempre, a propósito.
+# Antes tenían max-age=3600 y eso rompía el sitio: al publicar un cambio, el
+# navegador combinaba el index.html nuevo con un app.js viejo de hasta una hora.
+# Si el JS viejo buscaba un elemento que el HTML nuevo ya no tiene, tiraba un
+# TypeError y la tabla se quedaba en "Cargando ranking…" para siempre.
+# Son dos archivos de pocos KB: revalidar cuesta un 304 y garantiza que HTML,
+# CSS y JS sean siempre de la misma versión.
 [[headers]]
   for = "/assets/*"
   [headers.values]
-    Cache-Control = "public, max-age=3600"
+    Cache-Control = "public, max-age=0, must-revalidate"

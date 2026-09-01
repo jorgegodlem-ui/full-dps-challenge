@@ -136,6 +136,7 @@ const previos = new Map((anterior.jugadores || []).map(j => [j.id, j]));
 console.log(`FULL DPS CHALLENGE · sincronizando ${participantes.length} cuentas en ${PLATAFORMA.toUpperCase()}`);
 
 const salida = [];
+let conCuenta = 0, fallaron = 0;
 
 for (const p of participantes) {
   const previo = previos.get(p.id) || {};
@@ -157,6 +158,7 @@ for (const p of participantes) {
     continue;
   }
 
+  conCuenta++;
   try {
     if (!fila.puuid) {
       fila.puuid = await buscarPuuid(p.riotId);
@@ -194,10 +196,21 @@ for (const p of participantes) {
 
     console.log(`  ✓ ${p.nombre}: ${fila.tier} ${fila.division} ${fila.lp} LP (${fila.victorias}V/${fila.derrotas}D)`);
   } catch (e) {
+    fallaron++;
     console.error(`  ! ${p.nombre}: ${e.message}`);
   }
 
   salida.push(fila);
+}
+
+/* Si fallaron TODAS las cuentas, el problema es la key o la API, no los jugadores.
+   No se escribe nada: un ranking.json con fecha nueva y datos viejos le miente a
+   la gente diciendo "actualizado hace instantes". Mejor que la Action quede roja. */
+if (conCuenta > 0 && fallaron === conCuenta) {
+  console.error(`
+Fallaron las ${fallaron} cuentas consultadas. No se escribe ranking.json.`);
+  console.error("Casi siempre es la key vencida: regenérala en developer.riotgames.com y actualiza el secret RIOT_API_KEY.");
+  process.exit(1);
 }
 
 /* posiciones previas y ±LP de las últimas 24 h */
