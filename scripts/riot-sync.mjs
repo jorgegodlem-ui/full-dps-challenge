@@ -163,6 +163,16 @@ let conCuenta = 0, fallaron = 0;
 
 for (const p of participantes) {
   const previo = previos.get(p.id) || {};
+  // Si el jugador cambio de Riot ID, el PUUID guardado apunta a la cuenta anterior
+  // y el script seguiria leyendola para siempre. Se descarta y se resuelve de nuevo.
+  if (previo.riotId && previo.riotId !== p.riotId) {
+    console.log(`    · ${p.nombre}: cambio de cuenta (${previo.riotId} -> ${p.riotId}), se reinicia su registro`);
+    previo.puuid = "";
+    previo.tier = ""; previo.division = ""; previo.lp = 0;
+    previo.victorias = 0; previo.derrotas = 0;
+    previo.opgg = "";
+    delete previo.clasificatorias;
+  }
   const fila = {
     ...p,
     puuid: p.puuid || previo.puuid || "",

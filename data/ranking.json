@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-02T21:28:47.147Z",
+  "actualizado": "2026-09-02T21:32:10.576Z",
   "fuente": "riot-api",
   "jugadores": [
     {
@@ -19,28 +19,29 @@
         "n": 0
       },
       "deltaLp": 1251,
-      "posAnterior": 2,
+      "posAnterior": 1,
       "opgg": "https://op.gg/lol/summoners/las/Thortito-3013"
     },
     {
       "id": "p02",
       "nombre": "Chuto",
-      "riotId": "Chutinho#Chuto",
-      "rol": "FLEX",
+      "riotId": "Chutaelchuto#Chuto",
+      "rol": "MEDIO",
       "estado": "activo",
-      "puuid": "fBWMr9ozyBNpxp4rxFGrDuMhWRJX1ioTDEG6Sj51YbSpJ-KBHxnK53EkvDzKuYThcllDZwxaykT8jQ",
-      "tier": "ORO",
-      "division": "III",
-      "lp": 57,
-      "victorias": 6,
-      "derrotas": 1,
+      "puuid": "S49nyPgXGhZ_sxQv6bjieq17zJWnTDK-rUiLQ2hjMw-DbSc55oIVph605MC773NXm88JpC94T55qQQ",
+      "tier": "",
+      "division": "",
+      "lp": 0,
+      "victorias": 0,
+      "derrotas": 0,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 1357,
-      "posAnterior": 1,
-      "opgg": "https://op.gg/lol/summoners/las/Chutinho-Chuto"
+      "deltaLp": 0,
+      "posAnterior": 7,
+      "opgg": "https://op.gg/lol/summoners/las/Chutaelchuto-Chuto",
+      "clasificatorias": 0
     },
     {
       "id": "p03",
@@ -59,7 +60,7 @@
         "n": 0
       },
       "deltaLp": 622,
-      "posAnterior": 3,
+      "posAnterior": 2,
       "opgg": "https://op.gg/lol/summoners/las/ShawKDT-LAS"
     },
     {
@@ -121,7 +122,7 @@
         "n": 0
       },
       "deltaLp": 431,
-      "posAnterior": 5,
+      "posAnterior": 4,
       "opgg": "https://op.gg/lol/summoners/las/td3030-LAS"
     },
     {
@@ -162,7 +163,7 @@
         "n": 0
       },
       "deltaLp": 408,
-      "posAnterior": 6,
+      "posAnterior": 5,
       "opgg": "https://op.gg/lol/summoners/las/Franqueiro-LAS"
     },
     {
@@ -182,7 +183,7 @@
         "n": 0
       },
       "deltaLp": 597,
-      "posAnterior": 4,
+      "posAnterior": 3,
       "opgg": "https://op.gg/lol/summoners/las/NikyAll9-LAS"
     },
     {
@@ -244,7 +245,7 @@
         "n": 0
       },
       "deltaLp": 0,
-      "posAnterior": 7,
+      "posAnterior": 6,
       "opgg": "https://op.gg/lol/summoners/las/Jack0t-LAS"
     }
   ]
