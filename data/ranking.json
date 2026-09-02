@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-01T23:32:34.953Z",
+  "actualizado": "2026-09-02T01:19:31.544Z",
   "fuente": "riot-api",
   "jugadores": [
     {
@@ -13,7 +13,7 @@
       "division": "",
       "lp": 0,
       "victorias": 1,
-      "derrotas": 2,
+      "derrotas": 3,
       "racha": {
         "tipo": "W",
         "n": 0
@@ -21,7 +21,7 @@
       "deltaLp": 0,
       "posAnterior": 1,
       "opgg": "https://op.gg/lol/summoners/las/Thortito-3013",
-      "clasificatorias": 3
+      "clasificatorias": 4
     },
     {
       "id": "p02",
@@ -33,7 +33,7 @@
       "tier": "",
       "division": "",
       "lp": 0,
-      "victorias": 2,
+      "victorias": 3,
       "derrotas": 1,
       "racha": {
         "tipo": "W",
@@ -42,7 +42,7 @@
       "deltaLp": 0,
       "posAnterior": 2,
       "opgg": "https://op.gg/lol/summoners/las/Chutinho-Chuto",
-      "clasificatorias": 3
+      "clasificatorias": 4
     },
     {
       "id": "p03",
@@ -51,19 +51,18 @@
       "rol": "FLEX",
       "estado": "activo",
       "puuid": "Qc6e4opXsaC7ShlsysOap5YwjtQQO6H-AbZ47_zIpbVEWvTjU2pUudip3BTzZA2dBLHbzgZ51LXxTg",
-      "tier": "",
-      "division": "",
-      "lp": 0,
-      "victorias": 1,
+      "tier": "BRONCE",
+      "division": "IV",
+      "lp": 92,
+      "victorias": 4,
       "derrotas": 1,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 0,
+      "deltaLp": 492,
       "posAnterior": 3,
-      "opgg": "https://op.gg/lol/summoners/las/ShawKDT-LAS",
-      "clasificatorias": 2
+      "opgg": "https://op.gg/lol/summoners/las/ShawKDT-LAS"
     },
     {
       "id": "p04",
@@ -177,7 +176,7 @@
       "tier": "",
       "division": "",
       "lp": 0,
-      "victorias": 1,
+      "victorias": 3,
       "derrotas": 0,
       "racha": {
         "tipo": "W",
@@ -186,7 +185,7 @@
       "deltaLp": 0,
       "posAnterior": 9,
       "opgg": "https://op.gg/lol/summoners/las/NikyAll9-LAS",
-      "clasificatorias": 1
+      "clasificatorias": 3
     },
     {
       "id": "p10",
