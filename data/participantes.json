@@ -45,8 +45,8 @@
     {
       "id": "p07",
       "nombre": "Charwo",
-      "riotId": "{PENDIENTE}",
-      "rol": "FLEX",
+      "riotId": "Pigoku#UwU",
+      "rol": "MEDIO",
       "estado": "activo"
     },
     {
@@ -74,6 +74,13 @@
       "id": "p11",
       "nombre": "Patrick",
       "riotId": "SaisojPM#LAS",
+      "rol": "JUNGLA",
+      "estado": "activo"
+    },
+    {
+      "id": "p12",
+      "nombre": "Otero",
+      "riotId": "Jack0t#LAS",
       "rol": "JUNGLA",
       "estado": "activo"
     }

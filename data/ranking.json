@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-02T18:47:08.306Z",
+  "actualizado": "2026-09-02T18:49:17.541Z",
   "fuente": "riot-api",
   "jugadores": [
     {
@@ -126,22 +126,23 @@
     {
       "id": "p07",
       "nombre": "Charwo",
-      "riotId": "{PENDIENTE}",
-      "rol": "FLEX",
+      "riotId": "Pigoku#UwU",
+      "rol": "MEDIO",
       "estado": "activo",
-      "puuid": "",
+      "puuid": "AzSkCnn_Hm706hTwHh5X-1xMHxA3t9xDMdaD6b503pX573BVdHX0HbueoyCz1OQFhn72XXCTzU4OdA",
       "tier": "",
       "division": "",
       "lp": 0,
       "victorias": 0,
-      "derrotas": 0,
+      "derrotas": 1,
       "racha": {
         "tipo": "W",
         "n": 0
       },
       "deltaLp": 0,
       "posAnterior": 8,
-      "opgg": ""
+      "opgg": "https://op.gg/lol/summoners/las/Pigoku-UwU",
+      "clasificatorias": 1
     },
     {
       "id": "p08",
@@ -225,6 +226,26 @@
       "posAnterior": 11,
       "opgg": "https://op.gg/lol/summoners/las/SaisojPM-LAS",
       "clasificatorias": 3
+    },
+    {
+      "id": "p12",
+      "nombre": "Otero",
+      "riotId": "Jack0t#LAS",
+      "rol": "JUNGLA",
+      "estado": "activo",
+      "puuid": "HSX9OqTCvL7DovcDg3bCIL5Qp3C0r7_UG52eajS9NBUaQ8CQ0RAIl7QeecEiL1IowVegpxlHgToQQQ",
+      "tier": "HIERRO",
+      "division": "I",
+      "lp": 60,
+      "victorias": 1,
+      "derrotas": 4,
+      "racha": {
+        "tipo": "W",
+        "n": 0
+      },
+      "deltaLp": 0,
+      "posAnterior": 0,
+      "opgg": "https://op.gg/lol/summoners/las/Jack0t-LAS"
     }
   ]
 }
