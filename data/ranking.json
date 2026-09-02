@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-02T18:50:22.820Z",
+  "actualizado": "2026-09-02T18:58:22.938Z",
   "fuente": "riot-api",
   "jugadores": [
     {
@@ -9,16 +9,16 @@
       "rol": "FLEX",
       "estado": "activo",
       "puuid": "vGAZRDKOqJ7u-6a7MAXJXXbNiXJjN2a997f3fzGuBH_E6qwxJAik4CrryzixOWUPTilyXwwr6sq-fw",
-      "tier": "PLATA",
-      "division": "I",
-      "lp": 70,
-      "victorias": 2,
+      "tier": "ORO",
+      "division": "IV",
+      "lp": 1,
+      "victorias": 3,
       "derrotas": 8,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 1170,
+      "deltaLp": 1201,
       "posAnterior": 2,
       "opgg": "https://op.gg/lol/summoners/las/Thortito-3013"
     },
@@ -65,10 +65,10 @@
     {
       "id": "p04",
       "nombre": "Sutter",
-      "riotId": "{PENDIENTE}",
+      "riotId": "TeCarreoOniiChan#LAS",
       "rol": "FLEX",
       "estado": "activo",
-      "puuid": "",
+      "puuid": "ZWd3crWmmZtxyA2OnDFQwW39VyFDanLDKwKbOEbLdK9QaKQy-FC_cLwYLypvMv2PqbOD8TMvxWw6OA",
       "tier": "",
       "division": "",
       "lp": 0,
@@ -80,7 +80,8 @@
       },
       "deltaLp": 0,
       "posAnterior": 6,
-      "opgg": ""
+      "opgg": "https://op.gg/lol/summoners/las/TeCarreoOniiChan-LAS",
+      "clasificatorias": 0
     },
     {
       "id": "p05",
@@ -174,7 +175,7 @@
       "tier": "",
       "division": "",
       "lp": 0,
-      "victorias": 3,
+      "victorias": 4,
       "derrotas": 0,
       "racha": {
         "tipo": "W",
@@ -183,7 +184,7 @@
       "deltaLp": 0,
       "posAnterior": 10,
       "opgg": "https://op.gg/lol/summoners/las/NikyAll9-LAS",
-      "clasificatorias": 3
+      "clasificatorias": 4
     },
     {
       "id": "p10",
