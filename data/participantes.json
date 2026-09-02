@@ -18,7 +18,7 @@
       "id": "p03",
       "nombre": "Branduz",
       "riotId": "ShawKDT#LAS",
-      "rol": "FLEX",
+      "rol": "MEDIO",
       "estado": "activo"
     },
     {
@@ -73,8 +73,8 @@
     {
       "id": "p11",
       "nombre": "Patrick",
-      "riotId": "{PENDIENTE}",
-      "rol": "FLEX",
+      "riotId": "SaisojPM#LAS",
+      "rol": "JUNGLA",
       "estado": "activo"
     }
   ]

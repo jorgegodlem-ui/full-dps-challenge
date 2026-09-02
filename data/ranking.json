@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-02T01:50:00.086Z",
+  "actualizado": "2026-09-02T01:55:09.428Z",
   "fuente": "riot-api",
   "jugadores": [
     {
@@ -19,7 +19,7 @@
         "n": 0
       },
       "deltaLp": 1160,
-      "posAnterior": 2,
+      "posAnterior": 1,
       "opgg": "https://op.gg/lol/summoners/las/Thortito-3013"
     },
     {
@@ -39,7 +39,7 @@
         "n": 0
       },
       "deltaLp": 0,
-      "posAnterior": 3,
+      "posAnterior": 4,
       "opgg": "https://op.gg/lol/summoners/las/Chutinho-Chuto",
       "clasificatorias": 4
     },
@@ -47,7 +47,7 @@
       "id": "p03",
       "nombre": "Branduz",
       "riotId": "ShawKDT#LAS",
-      "rol": "FLEX",
+      "rol": "MEDIO",
       "estado": "activo",
       "puuid": "Qc6e4opXsaC7ShlsysOap5YwjtQQO6H-AbZ47_zIpbVEWvTjU2pUudip3BTzZA2dBLHbzgZ51LXxTg",
       "tier": "BRONCE",
@@ -60,7 +60,7 @@
         "n": 0
       },
       "deltaLp": 522,
-      "posAnterior": 1,
+      "posAnterior": 2,
       "opgg": "https://op.gg/lol/summoners/las/ShawKDT-LAS"
     },
     {
@@ -80,7 +80,7 @@
         "n": 0
       },
       "deltaLp": 0,
-      "posAnterior": 4,
+      "posAnterior": 5,
       "opgg": ""
     },
     {
@@ -100,7 +100,7 @@
         "n": 0
       },
       "deltaLp": 0,
-      "posAnterior": 5,
+      "posAnterior": 6,
       "opgg": "https://op.gg/lol/summoners/las/Kromosomen-LPDWZ",
       "clasificatorias": 0
     },
@@ -121,7 +121,7 @@
         "n": 0
       },
       "deltaLp": 0,
-      "posAnterior": 6,
+      "posAnterior": 7,
       "opgg": ""
     },
     {
@@ -141,7 +141,7 @@
         "n": 0
       },
       "deltaLp": 0,
-      "posAnterior": 7,
+      "posAnterior": 8,
       "opgg": ""
     },
     {
@@ -161,7 +161,7 @@
         "n": 0
       },
       "deltaLp": 409,
-      "posAnterior": 8,
+      "posAnterior": 3,
       "opgg": "https://op.gg/lol/summoners/las/Franqueiro-LAS"
     },
     {
@@ -209,14 +209,14 @@
     {
       "id": "p11",
       "nombre": "Patrick",
-      "riotId": "{PENDIENTE}",
-      "rol": "FLEX",
+      "riotId": "SaisojPM#LAS",
+      "rol": "JUNGLA",
       "estado": "activo",
-      "puuid": "",
+      "puuid": "Nt0FRCLJ9G_4x83bcWH4gezmh81aOkkoSP_Q91N46yE7O4PGSMB3a4tAIYpNJAP2wsfJZbdjeTmbrg",
       "tier": "",
       "division": "",
       "lp": 0,
-      "victorias": 0,
+      "victorias": 3,
       "derrotas": 0,
       "racha": {
         "tipo": "W",
@@ -224,7 +224,8 @@
       },
       "deltaLp": 0,
       "posAnterior": 11,
-      "opgg": ""
+      "opgg": "https://op.gg/lol/summoners/las/SaisojPM-LAS",
+      "clasificatorias": 3
     }
   ]
 }
