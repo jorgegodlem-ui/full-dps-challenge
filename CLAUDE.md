@@ -3,7 +3,8 @@
 Sitio del torneo de SoloQ de League of Legends. Ranking en vivo alimentado por la API oficial de Riot. Sitio estático: sin build, sin framework, sin backend.
 
 - Repo: [https://github.com/jorgegodlem-ui/full-dps-challenge](https://github.com/jorgegodlem-ui/full-dps-challenge)  
-- Producción: [https://fulldpschallenge.netlify.app](https://fulldpschallenge.netlify.app) (Netlify, conectado al repo)  
+- Producción: [https://jorgegodlem-ui.github.io/full-dps-challenge](https://jorgegodlem-ui.github.io/full-dps-challenge) — **GitHub Pages**
+- El sitio estuvo en Netlify (`fulldpschallenge.netlify.app`) hasta el 2-sep-2026. Se movió porque Netlify **pausó los production deploys** del equipo Cadencia Digital por límite de plan: el repo seguía al día y el sitio quedó 15 horas congelado sin aviso. Pages es gratis e ilimitado para repos públicos y publica con el mismo push del bot. El sitio de Netlify sigue existiendo por si se retoma, pero la URL oficial es la de Pages. 
 - Región del torneo: **LAS** (`la2`), ruteo `americas`
 
 ## Decisiones ya tomadas — no proponer lo contrario

@@ -3,7 +3,7 @@
 Campos del formulario:
 
 - Product Name .......  FULL DPS CHALLENGE
-- Product URL ........  https://fulldpschallenge.netlify.app
+- Product URL ........  https://jorgegodlem-ui.github.io/full-dps-challenge
 - Product Group ......  Default Group (dejar como viene)
 - Product Game Focus .  League of Legends
 - Product Description   el texto de abajo, completo
