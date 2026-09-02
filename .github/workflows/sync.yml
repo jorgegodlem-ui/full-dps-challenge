@@ -38,3 +38,17 @@ jobs:
           git add data/ranking.json data/historial.json
           git diff --staged --quiet || git commit -m "ranking: $(date -u '+%Y-%m-%d %H:%M UTC')"
           git push
+
+      # El webhook de GitHub -> Netlify se cayo sin aviso y el sitio quedo 15 horas
+      # atrasado mientras el repo estaba al dia. Este build hook lo publica a la
+      # fuerza, sin depender de esa integracion. Si el secret no existe, no hace nada.
+      - name: Pedirle a Netlify que publique
+        env:
+          HOOK: ${{ secrets.NETLIFY_BUILD_HOOK }}
+        run: |
+          if [ -z "$HOOK" ]; then
+            echo "Sin NETLIFY_BUILD_HOOK: se depende del webhook de GitHub."
+            exit 0
+          fi
+          curl -sS -X POST -d {} "$HOOK" > /dev/null
+          echo "Deploy pedido a Netlify."
