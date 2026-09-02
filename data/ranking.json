@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-02T19:07:09.744Z",
+  "actualizado": "2026-09-02T21:22:01.441Z",
   "fuente": "riot-api",
   "jugadores": [
     {
@@ -11,14 +11,14 @@
       "puuid": "vGAZRDKOqJ7u-6a7MAXJXXbNiXJjN2a997f3fzGuBH_E6qwxJAik4CrryzixOWUPTilyXwwr6sq-fw",
       "tier": "ORO",
       "division": "IV",
-      "lp": 1,
-      "victorias": 3,
+      "lp": 61,
+      "victorias": 5,
       "derrotas": 8,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 1201,
+      "deltaLp": 1261,
       "posAnterior": 2,
       "opgg": "https://op.gg/lol/summoners/las/Thortito-3013"
     },
@@ -172,19 +172,18 @@
       "rol": "TOP",
       "estado": "activo",
       "puuid": "8wTWdJskpI0FXC4gPF7em-Rk8hfhbB38s34apQUtxoWcWpy87e46i7pifdSGmDPWGqQcnK2V9OcwmQ",
-      "tier": "",
-      "division": "",
-      "lp": 0,
-      "victorias": 4,
+      "tier": "BRONCE",
+      "division": "III",
+      "lp": 97,
+      "victorias": 7,
       "derrotas": 0,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 0,
+      "deltaLp": 597,
       "posAnterior": 10,
-      "opgg": "https://op.gg/lol/summoners/las/NikyAll9-LAS",
-      "clasificatorias": 4
+      "opgg": "https://op.gg/lol/summoners/las/NikyAll9-LAS"
     },
     {
       "id": "p10",
@@ -237,9 +236,9 @@
       "puuid": "HSX9OqTCvL7DovcDg3bCIL5Qp3C0r7_UG52eajS9NBUaQ8CQ0RAIl7QeecEiL1IowVegpxlHgToQQQ",
       "tier": "HIERRO",
       "division": "I",
-      "lp": 60,
+      "lp": 39,
       "victorias": 1,
-      "derrotas": 4,
+      "derrotas": 6,
       "racha": {
         "tipo": "W",
         "n": 0
