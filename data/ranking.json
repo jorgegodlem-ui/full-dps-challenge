@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-02T18:59:27.222Z",
+  "actualizado": "2026-09-02T19:06:08.602Z",
   "fuente": "riot-api",
   "jugadores": [
     {
@@ -66,7 +66,7 @@
       "id": "p04",
       "nombre": "Sutter",
       "riotId": "TeCarreoOniiChan#LAS",
-      "rol": "FLEX",
+      "rol": "JUNGLA",
       "estado": "activo",
       "puuid": "ZWd3crWmmZtxyA2OnDFQwW39VyFDanLDKwKbOEbLdK9QaKQy-FC_cLwYLypvMv2PqbOD8TMvxWw6OA",
       "tier": "",
