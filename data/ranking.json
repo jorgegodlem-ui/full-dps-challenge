@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-02T17:47:36.865Z",
+  "actualizado": "2026-09-02T18:47:08.306Z",
   "fuente": "riot-api",
   "jugadores": [
     {
@@ -13,7 +13,7 @@
       "division": "I",
       "lp": 70,
       "victorias": 2,
-      "derrotas": 7,
+      "derrotas": 8,
       "racha": {
         "tipo": "W",
         "n": 0
@@ -50,15 +50,15 @@
       "estado": "activo",
       "puuid": "mZ0adpnkO3fZRD8rzYmSujJxgDl0qqXJpkX3Y5P9bkRMKwCyZFz1XbrrP2MjOux23FBlhIUK-CB4vA",
       "tier": "BRONCE",
-      "division": "II",
-      "lp": 12,
+      "division": "III",
+      "lp": 92,
       "victorias": 7,
-      "derrotas": 1,
+      "derrotas": 3,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 612,
+      "deltaLp": 592,
       "posAnterior": 3,
       "opgg": "https://op.gg/lol/summoners/las/ShawKDT-LAS"
     },
@@ -152,14 +152,14 @@
       "puuid": "ZaLNjUebsrFEzw386bIdBjigy-aLpkVXjyMNeq6xaowC6T8E7wK0NOzSjwBooiI-yn30eBIIt6tltA",
       "tier": "BRONCE",
       "division": "IV",
-      "lp": 9,
-      "victorias": 4,
-      "derrotas": 1,
+      "lp": 8,
+      "victorias": 5,
+      "derrotas": 2,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 409,
+      "deltaLp": 408,
       "posAnterior": 4,
       "opgg": "https://op.gg/lol/summoners/las/Franqueiro-LAS"
     },
