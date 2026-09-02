@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-02T18:49:17.541Z",
+  "actualizado": "2026-09-02T18:50:22.820Z",
   "fuente": "riot-api",
   "jugadores": [
     {
@@ -79,7 +79,7 @@
         "n": 0
       },
       "deltaLp": 0,
-      "posAnterior": 5,
+      "posAnterior": 6,
       "opgg": ""
     },
     {
@@ -99,7 +99,7 @@
         "n": 0
       },
       "deltaLp": 0,
-      "posAnterior": 6,
+      "posAnterior": 7,
       "opgg": "https://op.gg/lol/summoners/las/Kromosomen-LPDWZ",
       "clasificatorias": 0
     },
@@ -120,7 +120,7 @@
         "n": 0
       },
       "deltaLp": 0,
-      "posAnterior": 7,
+      "posAnterior": 8,
       "opgg": ""
     },
     {
@@ -140,7 +140,7 @@
         "n": 0
       },
       "deltaLp": 0,
-      "posAnterior": 8,
+      "posAnterior": 9,
       "opgg": "https://op.gg/lol/summoners/las/Pigoku-UwU",
       "clasificatorias": 1
     },
@@ -181,7 +181,7 @@
         "n": 0
       },
       "deltaLp": 0,
-      "posAnterior": 9,
+      "posAnterior": 10,
       "opgg": "https://op.gg/lol/summoners/las/NikyAll9-LAS",
       "clasificatorias": 3
     },
@@ -202,7 +202,7 @@
         "n": 0
       },
       "deltaLp": 0,
-      "posAnterior": 10,
+      "posAnterior": 11,
       "opgg": "https://op.gg/lol/summoners/las/Chapayev-LAS",
       "clasificatorias": 1
     },
@@ -223,7 +223,7 @@
         "n": 0
       },
       "deltaLp": 0,
-      "posAnterior": 11,
+      "posAnterior": 12,
       "opgg": "https://op.gg/lol/summoners/las/SaisojPM-LAS",
       "clasificatorias": 3
     },
@@ -244,7 +244,7 @@
         "n": 0
       },
       "deltaLp": 0,
-      "posAnterior": 0,
+      "posAnterior": 5,
       "opgg": "https://op.gg/lol/summoners/las/Jack0t-LAS"
     }
   ]
