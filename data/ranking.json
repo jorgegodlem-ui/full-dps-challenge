@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-02T01:19:31.544Z",
+  "actualizado": "2026-09-02T01:50:00.086Z",
   "fuente": "riot-api",
   "jugadores": [
     {
@@ -9,19 +9,18 @@
       "rol": "FLEX",
       "estado": "activo",
       "puuid": "LDlQk5HoshNk-T5ke0jwfmFGOK3GNZ5nWbmf-gQgD6niVe6wJ3yUsLQTEKLuHdLRwslLr1gXLrir5w",
-      "tier": "",
-      "division": "",
-      "lp": 0,
+      "tier": "PLATA",
+      "division": "I",
+      "lp": 60,
       "victorias": 1,
-      "derrotas": 3,
+      "derrotas": 4,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 0,
-      "posAnterior": 1,
-      "opgg": "https://op.gg/lol/summoners/las/Thortito-3013",
-      "clasificatorias": 4
+      "deltaLp": 1160,
+      "posAnterior": 2,
+      "opgg": "https://op.gg/lol/summoners/las/Thortito-3013"
     },
     {
       "id": "p02",
@@ -40,7 +39,7 @@
         "n": 0
       },
       "deltaLp": 0,
-      "posAnterior": 2,
+      "posAnterior": 3,
       "opgg": "https://op.gg/lol/summoners/las/Chutinho-Chuto",
       "clasificatorias": 4
     },
@@ -52,16 +51,16 @@
       "estado": "activo",
       "puuid": "Qc6e4opXsaC7ShlsysOap5YwjtQQO6H-AbZ47_zIpbVEWvTjU2pUudip3BTzZA2dBLHbzgZ51LXxTg",
       "tier": "BRONCE",
-      "division": "IV",
-      "lp": 92,
-      "victorias": 4,
+      "division": "III",
+      "lp": 22,
+      "victorias": 5,
       "derrotas": 1,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 492,
-      "posAnterior": 3,
+      "deltaLp": 522,
+      "posAnterior": 1,
       "opgg": "https://op.gg/lol/summoners/las/ShawKDT-LAS"
     },
     {
@@ -152,19 +151,18 @@
       "rol": "TOP",
       "estado": "activo",
       "puuid": "9GPWliD8JQvYel1Mzmpu5gpN-C9z0cX5teOhmD-H9j5s0ITAJQ-EvuCfVm0Im3YGyjlwLG6Lm04YcA",
-      "tier": "",
-      "division": "",
-      "lp": 0,
-      "victorias": 3,
-      "derrotas": 0,
+      "tier": "BRONCE",
+      "division": "IV",
+      "lp": 9,
+      "victorias": 4,
+      "derrotas": 1,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 0,
+      "deltaLp": 409,
       "posAnterior": 8,
-      "opgg": "https://op.gg/lol/summoners/las/Franqueiro-LAS",
-      "clasificatorias": 3
+      "opgg": "https://op.gg/lol/summoners/las/Franqueiro-LAS"
     },
     {
       "id": "p09",
