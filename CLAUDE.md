@@ -3,7 +3,7 @@
 Sitio del torneo de SoloQ de League of Legends. Ranking en vivo alimentado por la API oficial de Riot. Sitio estático: sin build, sin framework, sin backend.
 
 - Repo: [https://github.com/jorgegodlem-ui/full-dps-challenge](https://github.com/jorgegodlem-ui/full-dps-challenge)  
-- Producción: [https://comfy-palmier-f0a6ec.netlify.app](https://comfy-palmier-f0a6ec.netlify.app) (Netlify, conectado al repo)  
+- Producción: [https://fulldpschallenge.netlify.app](https://fulldpschallenge.netlify.app) (Netlify, conectado al repo)  
 - Región del torneo: **LAS** (`la2`), ruteo `americas`
 
 ## Decisiones ya tomadas — no proponer lo contrario

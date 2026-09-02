@@ -3,7 +3,7 @@
 **Formato:** individual, SoloQ, servidor LAS.
 **Duración:** del martes 1 de septiembre al lunes 28 de septiembre de 2026. Cierra a las **23:59** de Chile.
 **Gana:** el que tenga más LP total al momento del cierre.
-**Dónde se sigue:** el ranking se actualiza solo en https://comfy-palmier-f0a6ec.netlify.app. La transmisión oficial del torneo va por **Proyecto Gordos** (https://kick.com/proyecto-gordos).
+**Dónde se sigue:** el ranking se actualiza solo en https://fulldpschallenge.netlify.app. La transmisión oficial del torneo va por **Proyecto Gordos** (https://kick.com/proyecto-gordos).
 
 ---
 
