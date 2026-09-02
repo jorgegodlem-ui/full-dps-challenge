@@ -193,7 +193,21 @@ for (const p of participantes) {
       continue;
     }
 
-    const liga = await buscarLiga(fila.puuid);
+    // Los PUUID vienen cifrados por API key: el que se guardo con la key de ayer
+    // deja de servir hoy y league-v4 responde 400, aunque la key nueva este bien.
+    // Si pasa, se vuelve a resolver el PUUID desde el Riot ID y se reintenta.
+    let liga;
+    try {
+      liga = await buscarLiga(fila.puuid);
+    } catch (e) {
+      if (!String(e.message).startsWith("400")) throw e;
+      console.log(`    · ${p.nombre}: el PUUID guardado quedo obsoleto, se vuelve a resolver`);
+      await dormir(PAUSA);
+      fila.puuid = await buscarPuuid(p.riotId);
+      await dormir(PAUSA);
+      if (!fila.puuid) throw new Error(`no se pudo re-resolver ${p.riotId}`);
+      liga = await buscarLiga(fila.puuid);
+    }
     await dormir(PAUSA);
 
     if (liga) {
