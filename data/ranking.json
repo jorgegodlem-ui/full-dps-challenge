@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-02T23:24:07.048Z",
+  "actualizado": "2026-09-03T01:24:25.990Z",
   "fuente": "riot-api",
   "jugadores": [
     {
@@ -52,14 +52,14 @@
       "puuid": "mZ0adpnkO3fZRD8rzYmSujJxgDl0qqXJpkX3Y5P9bkRMKwCyZFz1XbrrP2MjOux23FBlhIUK-CB4vA",
       "tier": "BRONCE",
       "division": "I",
-      "lp": 12,
+      "lp": 2,
       "victorias": 10,
-      "derrotas": 3,
+      "derrotas": 5,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 712,
+      "deltaLp": 210,
       "posAnterior": 2,
       "opgg": "https://op.gg/lol/summoners/las/ShawKDT-LAS"
     },
@@ -114,14 +114,14 @@
       "puuid": "T9SMneMdsQ6Qee_LyhCalQDzihKAA4WbavEJgh5h6lAT1QEL93w3-3xVn2qLAsJDv0z4UgbMutTvwA",
       "tier": "BRONCE",
       "division": "IV",
-      "lp": 31,
-      "victorias": 5,
+      "lp": 58,
+      "victorias": 6,
       "derrotas": 5,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 431,
+      "deltaLp": 458,
       "posAnterior": 4,
       "opgg": "https://op.gg/lol/summoners/las/td3030-LAS"
     },
@@ -174,15 +174,15 @@
       "estado": "activo",
       "puuid": "8wTWdJskpI0FXC4gPF7em-Rk8hfhbB38s34apQUtxoWcWpy87e46i7pifdSGmDPWGqQcnK2V9OcwmQ",
       "tier": "BRONCE",
-      "division": "II",
-      "lp": 87,
-      "victorias": 10,
+      "division": "I",
+      "lp": 47,
+      "victorias": 12,
       "derrotas": 0,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 687,
+      "deltaLp": 747,
       "posAnterior": 3,
       "opgg": "https://op.gg/lol/summoners/las/NikyAll9-LAS"
     },
@@ -214,19 +214,18 @@
       "rol": "JUNGLA",
       "estado": "activo",
       "puuid": "dMBELKxSjsMwVRo6Fx0bGo2Uk3E02VPK8kjEl0OaSVdJWZpLIHJEhyxLwsgSDqJnlTxKB-040MyF_Q",
-      "tier": "",
-      "division": "",
-      "lp": 0,
-      "victorias": 3,
+      "tier": "BRONCE",
+      "division": "III",
+      "lp": 24,
+      "victorias": 5,
       "derrotas": 0,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 0,
+      "deltaLp": 524,
       "posAnterior": 12,
-      "opgg": "https://op.gg/lol/summoners/las/SaisojPM-LAS",
-      "clasificatorias": 3
+      "opgg": "https://op.gg/lol/summoners/las/SaisojPM-LAS"
     },
     {
       "id": "p12",
