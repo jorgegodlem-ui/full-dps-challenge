@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-03T15:15:07.658Z",
+  "actualizado": "2026-09-03T18:45:01.406Z",
   "fuente": "riot-api",
   "jugadores": [
     {
@@ -10,15 +10,15 @@
       "estado": "activo",
       "puuid": "vGAZRDKOqJ7u-6a7MAXJXXbNiXJjN2a997f3fzGuBH_E6qwxJAik4CrryzixOWUPTilyXwwr6sq-fw",
       "tier": "ORO",
-      "division": "III",
-      "lp": 31,
-      "victorias": 8,
-      "derrotas": 10,
+      "division": "II",
+      "lp": 11,
+      "victorias": 11,
+      "derrotas": 11,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 161,
+      "deltaLp": 241,
       "posAnterior": 1,
       "opgg": "https://op.gg/lol/summoners/las/Thortito-3013"
     },
@@ -52,14 +52,14 @@
       "puuid": "mZ0adpnkO3fZRD8rzYmSujJxgDl0qqXJpkX3Y5P9bkRMKwCyZFz1XbrrP2MjOux23FBlhIUK-CB4vA",
       "tier": "BRONCE",
       "division": "I",
-      "lp": 82,
+      "lp": 72,
       "victorias": 12,
-      "derrotas": 6,
+      "derrotas": 7,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 170,
+      "deltaLp": 160,
       "posAnterior": 3,
       "opgg": "https://op.gg/lol/summoners/las/ShawKDT-LAS"
     },
