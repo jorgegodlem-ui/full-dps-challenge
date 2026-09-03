@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-03T18:45:01.406Z",
+  "actualizado": "2026-09-03T21:24:36.957Z",
   "fuente": "riot-api",
   "jugadores": [
     {
@@ -10,15 +10,15 @@
       "estado": "activo",
       "puuid": "vGAZRDKOqJ7u-6a7MAXJXXbNiXJjN2a997f3fzGuBH_E6qwxJAik4CrryzixOWUPTilyXwwr6sq-fw",
       "tier": "ORO",
-      "division": "II",
-      "lp": 11,
+      "division": "III",
+      "lp": 91,
       "victorias": 11,
-      "derrotas": 11,
+      "derrotas": 13,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 241,
+      "deltaLp": 130,
       "posAnterior": 1,
       "opgg": "https://op.gg/lol/summoners/las/Thortito-3013"
     },
@@ -52,14 +52,14 @@
       "puuid": "mZ0adpnkO3fZRD8rzYmSujJxgDl0qqXJpkX3Y5P9bkRMKwCyZFz1XbrrP2MjOux23FBlhIUK-CB4vA",
       "tier": "BRONCE",
       "division": "I",
-      "lp": 72,
+      "lp": 62,
       "victorias": 12,
-      "derrotas": 7,
+      "derrotas": 8,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 160,
+      "deltaLp": 170,
       "posAnterior": 3,
       "opgg": "https://op.gg/lol/summoners/las/ShawKDT-LAS"
     },
@@ -162,7 +162,7 @@
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": -1,
+      "deltaLp": 0,
       "posAnterior": 8,
       "opgg": "https://op.gg/lol/summoners/las/Franqueiro-LAS"
     },
@@ -173,16 +173,16 @@
       "rol": "TOP",
       "estado": "activo",
       "puuid": "8wTWdJskpI0FXC4gPF7em-Rk8hfhbB38s34apQUtxoWcWpy87e46i7pifdSGmDPWGqQcnK2V9OcwmQ",
-      "tier": "BRONCE",
-      "division": "I",
-      "lp": 47,
-      "victorias": 12,
+      "tier": "PLATA",
+      "division": "IV",
+      "lp": 7,
+      "victorias": 14,
       "derrotas": 0,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 747,
+      "deltaLp": 210,
       "posAnterior": 4,
       "opgg": "https://op.gg/lol/summoners/las/NikyAll9-LAS"
     },
@@ -242,7 +242,7 @@
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 0,
+      "deltaLp": 76,
       "posAnterior": 7,
       "opgg": "https://op.gg/lol/summoners/las/Jack0t-LAS"
     }
