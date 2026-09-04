@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-04T11:08:15.786Z",
+  "actualizado": "2026-09-04T15:00:22.461Z",
   "fuente": "riot-api",
   "jugadores": [
     {
@@ -234,14 +234,14 @@
       "puuid": "HSX9OqTCvL7DovcDg3bCIL5Qp3C0r7_UG52eajS9NBUaQ8CQ0RAIl7QeecEiL1IowVegpxlHgToQQQ",
       "tier": "BRONCE",
       "division": "IV",
-      "lp": 23,
-      "victorias": 6,
+      "lp": 80,
+      "victorias": 8,
       "derrotas": 13,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 8,
+      "deltaLp": 65,
       "posAnterior": 8,
       "opgg": "https://op.gg/lol/summoners/las/Jack0t-LAS"
     }
