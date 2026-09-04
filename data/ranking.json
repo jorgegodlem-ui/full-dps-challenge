@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-04T15:00:22.461Z",
+  "actualizado": "2026-09-04T18:18:33.742Z",
   "fuente": "riot-api",
   "jugadores": [
     {
@@ -11,14 +11,14 @@
       "puuid": "vGAZRDKOqJ7u-6a7MAXJXXbNiXJjN2a997f3fzGuBH_E6qwxJAik4CrryzixOWUPTilyXwwr6sq-fw",
       "tier": "ORO",
       "division": "I",
-      "lp": 1,
-      "victorias": 15,
-      "derrotas": 14,
+      "lp": 61,
+      "victorias": 17,
+      "derrotas": 15,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 170,
+      "deltaLp": 230,
       "posAnterior": 1,
       "opgg": "https://op.gg/lol/summoners/las/Thortito-3013"
     },
@@ -52,14 +52,14 @@
       "puuid": "mZ0adpnkO3fZRD8rzYmSujJxgDl0qqXJpkX3Y5P9bkRMKwCyZFz1XbrrP2MjOux23FBlhIUK-CB4vA",
       "tier": "PLATA",
       "division": "IV",
-      "lp": 12,
-      "victorias": 14,
+      "lp": 42,
+      "victorias": 15,
       "derrotas": 9,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 30,
+      "deltaLp": 60,
       "posAnterior": 4,
       "opgg": "https://op.gg/lol/summoners/las/ShawKDT-LAS"
     },
@@ -114,14 +114,14 @@
       "puuid": "T9SMneMdsQ6Qee_LyhCalQDzihKAA4WbavEJgh5h6lAT1QEL93w3-3xVn2qLAsJDv0z4UgbMutTvwA",
       "tier": "BRONCE",
       "division": "II",
-      "lp": 29,
-      "victorias": 14,
+      "lp": 59,
+      "victorias": 15,
       "derrotas": 12,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 99,
+      "deltaLp": 129,
       "posAnterior": 6,
       "opgg": "https://op.gg/lol/summoners/las/td3030-LAS"
     },
@@ -162,7 +162,7 @@
         "n": 0
       },
       "deltaLp": 46,
-      "posAnterior": 7,
+      "posAnterior": 8,
       "opgg": "https://op.gg/lol/summoners/las/Franqueiro-LAS"
     },
     {
@@ -233,16 +233,16 @@
       "estado": "activo",
       "puuid": "HSX9OqTCvL7DovcDg3bCIL5Qp3C0r7_UG52eajS9NBUaQ8CQ0RAIl7QeecEiL1IowVegpxlHgToQQQ",
       "tier": "BRONCE",
-      "division": "IV",
-      "lp": 80,
-      "victorias": 8,
-      "derrotas": 13,
+      "division": "III",
+      "lp": 60,
+      "victorias": 11,
+      "derrotas": 14,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 65,
-      "posAnterior": 8,
+      "deltaLp": 145,
+      "posAnterior": 7,
       "opgg": "https://op.gg/lol/summoners/las/Jack0t-LAS"
     }
   ]
