@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-05T04:41:29.902Z",
+  "actualizado": "2026-09-05T08:39:40.671Z",
   "fuente": "riot-api",
   "jugadores": [
     {
@@ -18,7 +18,7 @@
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 165,
+      "deltaLp": 135,
       "posAnterior": 1,
       "opgg": "https://op.gg/lol/summoners/las/Thortito-3013"
     },
@@ -59,8 +59,8 @@
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 100,
-      "posAnterior": 4,
+      "deltaLp": 50,
+      "posAnterior": 3,
       "opgg": "https://op.gg/lol/summoners/las/ShawKDT-LAS"
     },
     {
@@ -141,7 +141,7 @@
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 17,
+      "deltaLp": -11,
       "posAnterior": 9,
       "opgg": "https://op.gg/lol/summoners/las/Pigoku-UwU"
     },
@@ -153,15 +153,15 @@
       "estado": "activo",
       "puuid": "ZaLNjUebsrFEzw386bIdBjigy-aLpkVXjyMNeq6xaowC6T8E7wK0NOzSjwBooiI-yn30eBIIt6tltA",
       "tier": "BRONCE",
-      "division": "IV",
-      "lp": 82,
-      "victorias": 12,
+      "division": "III",
+      "lp": 7,
+      "victorias": 13,
       "derrotas": 7,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 50,
+      "deltaLp": 53,
       "posAnterior": 8,
       "opgg": "https://op.gg/lol/summoners/las/Franqueiro-LAS"
     },
@@ -182,7 +182,7 @@
         "n": 0
       },
       "deltaLp": 10,
-      "posAnterior": 3,
+      "posAnterior": 4,
       "opgg": "https://op.gg/lol/summoners/las/NikyAll9-LAS"
     },
     {
@@ -193,15 +193,15 @@
       "estado": "activo",
       "puuid": "ZOr_7E_pswbFnzOvvqN1NUED0ZMCoDT3Hk7BvQvXoiNhYXicNZWkQ5P6DqIBRt2BgHgOFdrOsLmgxQ",
       "tier": "ORO",
-      "division": "III",
-      "lp": 85,
-      "victorias": 7,
-      "derrotas": 6,
+      "division": "II",
+      "lp": 30,
+      "victorias": 9,
+      "derrotas": 7,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 80,
+      "deltaLp": 125,
       "posAnterior": 2,
       "opgg": "https://op.gg/lol/summoners/las/Chapayev-LAS"
     },
@@ -221,7 +221,7 @@
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 30,
+      "deltaLp": 0,
       "posAnterior": 6,
       "opgg": "https://op.gg/lol/summoners/las/SaisojPM-LAS"
     },
@@ -241,7 +241,7 @@
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 145,
+      "deltaLp": 185,
       "posAnterior": 7,
       "opgg": "https://op.gg/lol/summoners/las/Jack0t-LAS"
     }
