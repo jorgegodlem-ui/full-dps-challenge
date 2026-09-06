@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-06T13:49:47.667Z",
+  "actualizado": "2026-09-06T16:29:10.621Z",
   "fuente": "riot-api",
   "jugadores": [
     {
@@ -18,7 +18,7 @@
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 100,
+      "deltaLp": 110,
       "posAnterior": 1,
       "opgg": "https://op.gg/lol/summoners/las/Thortito-3013"
     },
@@ -52,14 +52,14 @@
       "puuid": "mZ0adpnkO3fZRD8rzYmSujJxgDl0qqXJpkX3Y5P9bkRMKwCyZFz1XbrrP2MjOux23FBlhIUK-CB4vA",
       "tier": "PLATA",
       "division": "I",
-      "lp": 12,
-      "victorias": 26,
+      "lp": 72,
+      "victorias": 28,
       "derrotas": 18,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 250,
+      "deltaLp": 310,
       "posAnterior": 4,
       "opgg": "https://op.gg/lol/summoners/las/ShawKDT-LAS"
     },
@@ -161,7 +161,7 @@
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 84,
+      "deltaLp": 32,
       "posAnterior": 9,
       "opgg": "https://op.gg/lol/summoners/las/Franqueiro-LAS"
     },
