@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-06T19:16:07.728Z",
+  "actualizado": "2026-09-06T19:16:55.181Z",
   "fuente": "riot-api",
   "jugadores": [
     {
@@ -39,7 +39,7 @@
         "n": 0
       },
       "deltaLp": 1567,
-      "posAnterior": 11,
+      "posAnterior": 2,
       "opgg": "https://op.gg/lol/summoners/las/Chutinho-Chuto"
     },
     {
@@ -59,7 +59,7 @@
         "n": 0
       },
       "deltaLp": 290,
-      "posAnterior": 4,
+      "posAnterior": 5,
       "opgg": "https://op.gg/lol/summoners/las/ShawKDT-LAS"
     },
     {
@@ -121,7 +121,7 @@
         "n": 0
       },
       "deltaLp": 215,
-      "posAnterior": 6,
+      "posAnterior": 7,
       "opgg": "https://op.gg/lol/summoners/las/td3030-LAS"
     },
     {
@@ -141,7 +141,7 @@
         "n": 0
       },
       "deltaLp": 91,
-      "posAnterior": 10,
+      "posAnterior": 11,
       "opgg": "https://op.gg/lol/summoners/las/Pigoku-UwU"
     },
     {
@@ -161,7 +161,7 @@
         "n": 0
       },
       "deltaLp": 63,
-      "posAnterior": 9,
+      "posAnterior": 10,
       "opgg": "https://op.gg/lol/summoners/las/Franqueiro-LAS"
     },
     {
@@ -181,7 +181,7 @@
         "n": 0
       },
       "deltaLp": 200,
-      "posAnterior": 5,
+      "posAnterior": 6,
       "opgg": "https://op.gg/lol/summoners/las/NikyAll9-LAS"
     },
     {
@@ -201,7 +201,7 @@
         "n": 0
       },
       "deltaLp": 60,
-      "posAnterior": 2,
+      "posAnterior": 3,
       "opgg": "https://op.gg/lol/summoners/las/Chapayev-LAS"
     },
     {
@@ -221,7 +221,7 @@
         "n": 0
       },
       "deltaLp": 0,
-      "posAnterior": 8,
+      "posAnterior": 9,
       "opgg": "https://op.gg/lol/summoners/las/SaisojPM-LAS"
     },
     {
@@ -241,7 +241,7 @@
         "n": 0
       },
       "deltaLp": 90,
-      "posAnterior": 7,
+      "posAnterior": 8,
       "opgg": "https://op.gg/lol/summoners/las/Jack0t-LAS"
     },
     {
@@ -261,7 +261,7 @@
         "n": 0
       },
       "deltaLp": 0,
-      "posAnterior": 3,
+      "posAnterior": 4,
       "opgg": "https://op.gg/lol/summoners/las/gonzaimp-LAS"
     }
   ]
