@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-06T18:36:13.748Z",
+  "actualizado": "2026-09-06T19:16:07.728Z",
   "fuente": "riot-api",
   "jugadores": [
     {
@@ -25,23 +25,22 @@
     {
       "id": "p02",
       "nombre": "Chuto",
-      "riotId": "Chutaelchuto#Chuto",
+      "riotId": "Chutinho#Chuto",
       "rol": "MEDIO",
       "estado": "activo",
-      "puuid": "S49nyPgXGhZ_sxQv6bjieq17zJWnTDK-rUiLQ2hjMw-DbSc55oIVph605MC773NXm88JpC94T55qQQ",
-      "tier": "",
-      "division": "",
-      "lp": 0,
-      "victorias": 0,
-      "derrotas": 1,
+      "puuid": "fBWMr9ozyBNpxp4rxFGrDuMhWRJX1ioTDEG6Sj51YbSpJ-KBHxnK53EkvDzKuYThcllDZwxaykT8jQ",
+      "tier": "ORO",
+      "division": "I",
+      "lp": 67,
+      "victorias": 13,
+      "derrotas": 4,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 0,
+      "deltaLp": 1567,
       "posAnterior": 11,
-      "opgg": "https://op.gg/lol/summoners/las/Chutaelchuto-Chuto",
-      "clasificatorias": 1
+      "opgg": "https://op.gg/lol/summoners/las/Chutinho-Chuto"
     },
     {
       "id": "p03",
@@ -114,14 +113,14 @@
       "puuid": "T9SMneMdsQ6Qee_LyhCalQDzihKAA4WbavEJgh5h6lAT1QEL93w3-3xVn2qLAsJDv0z4UgbMutTvwA",
       "tier": "PLATA",
       "division": "II",
-      "lp": 14,
+      "lp": 4,
       "victorias": 30,
-      "derrotas": 22,
+      "derrotas": 23,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 225,
+      "deltaLp": 215,
       "posAnterior": 6,
       "opgg": "https://op.gg/lol/summoners/las/td3030-LAS"
     },
@@ -134,14 +133,14 @@
       "puuid": "AzSkCnn_Hm706hTwHh5X-1xMHxA3t9xDMdaD6b503pX573BVdHX0HbueoyCz1OQFhn72XXCTzU4OdA",
       "tier": "BRONCE",
       "division": "IV",
-      "lp": 29,
-      "victorias": 5,
+      "lp": 57,
+      "victorias": 6,
       "derrotas": 8,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 63,
+      "deltaLp": 91,
       "posAnterior": 10,
       "opgg": "https://op.gg/lol/summoners/las/Pigoku-UwU"
     },
