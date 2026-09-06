@@ -83,6 +83,13 @@
       "riotId": "Jack0t#LAS",
       "rol": "JUNGLA",
       "estado": "activo"
+    },
+    {
+      "id": "p13",
+      "nombre": "OBI",
+      "riotId": "gonzaimp#LAS",
+      "rol": "SUPPORT",
+      "estado": "activo"
     }
   ]
 }
