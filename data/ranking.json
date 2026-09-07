@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-07T15:54:51.122Z",
+  "actualizado": "2026-09-07T19:51:52.271Z",
   "fuente": "riot-api",
   "jugadores": [
     {
@@ -10,16 +10,16 @@
       "estado": "activo",
       "puuid": "vGAZRDKOqJ7u-6a7MAXJXXbNiXJjN2a997f3fzGuBH_E6qwxJAik4CrryzixOWUPTilyXwwr6sq-fw",
       "tier": "PLATINO",
-      "division": "IV",
-      "lp": 96,
-      "victorias": 25,
-      "derrotas": 25,
+      "division": "III",
+      "lp": 26,
+      "victorias": 27,
+      "derrotas": 28,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": -40,
-      "posAnterior": 1,
+      "deltaLp": -10,
+      "posAnterior": 2,
       "opgg": "https://op.gg/lol/summoners/las/Thortito-3013"
     },
     {
@@ -38,7 +38,7 @@
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 1627,
+      "deltaLp": 60,
       "posAnterior": 3,
       "opgg": "https://op.gg/lol/summoners/las/Chutinho-Chuto"
     },
@@ -58,7 +58,7 @@
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 88,
+      "deltaLp": 28,
       "posAnterior": 5,
       "opgg": "https://op.gg/lol/summoners/las/ShawKDT-LAS"
     },
@@ -114,13 +114,13 @@
       "tier": "PLATA",
       "division": "II",
       "lp": 92,
-      "victorias": 35,
-      "derrotas": 28,
+      "victorias": 36,
+      "derrotas": 30,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 138,
+      "deltaLp": 88,
       "posAnterior": 7,
       "opgg": "https://op.gg/lol/summoners/las/td3030-LAS"
     },
@@ -140,7 +140,7 @@
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 65,
+      "deltaLp": 48,
       "posAnterior": 11,
       "opgg": "https://op.gg/lol/summoners/las/Pigoku-UwU"
     },
@@ -152,15 +152,15 @@
       "estado": "activo",
       "puuid": "ZaLNjUebsrFEzw386bIdBjigy-aLpkVXjyMNeq6xaowC6T8E7wK0NOzSjwBooiI-yn30eBIIt6tltA",
       "tier": "BRONCE",
-      "division": "II",
-      "lp": 77,
-      "victorias": 25,
+      "division": "I",
+      "lp": 5,
+      "victorias": 26,
       "derrotas": 20,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 86,
+      "deltaLp": 114,
       "posAnterior": 10,
       "opgg": "https://op.gg/lol/summoners/las/Franqueiro-LAS"
     },
@@ -173,14 +173,14 @@
       "puuid": "8wTWdJskpI0FXC4gPF7em-Rk8hfhbB38s34apQUtxoWcWpy87e46i7pifdSGmDPWGqQcnK2V9OcwmQ",
       "tier": "PLATA",
       "division": "I",
-      "lp": 27,
-      "victorias": 27,
-      "derrotas": 7,
+      "lp": 57,
+      "victorias": 29,
+      "derrotas": 10,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 60,
+      "deltaLp": 90,
       "posAnterior": 6,
       "opgg": "https://op.gg/lol/summoners/las/NikyAll9-LAS"
     },
@@ -193,14 +193,14 @@
       "puuid": "ZOr_7E_pswbFnzOvvqN1NUED0ZMCoDT3Hk7BvQvXoiNhYXicNZWkQ5P6DqIBRt2BgHgOFdrOsLmgxQ",
       "tier": "ORO",
       "division": "I",
-      "lp": 30,
-      "victorias": 13,
+      "lp": 60,
+      "victorias": 14,
       "derrotas": 9,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 10,
+      "deltaLp": 40,
       "posAnterior": 4,
       "opgg": "https://op.gg/lol/summoners/las/Chapayev-LAS"
     },
@@ -233,14 +233,14 @@
       "puuid": "HSX9OqTCvL7DovcDg3bCIL5Qp3C0r7_UG52eajS9NBUaQ8CQ0RAIl7QeecEiL1IowVegpxlHgToQQQ",
       "tier": "PLATA",
       "division": "IV",
-      "lp": 20,
-      "victorias": 24,
-      "derrotas": 27,
+      "lp": 50,
+      "victorias": 26,
+      "derrotas": 30,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 110,
+      "deltaLp": 140,
       "posAnterior": 8,
       "opgg": "https://op.gg/lol/summoners/las/Jack0t-LAS"
     },
@@ -253,15 +253,15 @@
       "puuid": "deQZ-2Qwd8oq2gJcFhOhSZaN8b5KM5pof54aLJg7prYmGKYRgW90ewmKZBlBeMlRet_U0Ibs9-MrHg",
       "tier": "PLATINO",
       "division": "III",
-      "lp": 23,
-      "victorias": 33,
-      "derrotas": 15,
+      "lp": 35,
+      "victorias": 34,
+      "derrotas": 16,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 260,
-      "posAnterior": 2,
+      "deltaLp": 272,
+      "posAnterior": 1,
       "opgg": "https://op.gg/lol/summoners/las/gonzaimp-LAS"
     }
   ]
