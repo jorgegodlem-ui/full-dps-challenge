@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-07T04:54:01.861Z",
+  "actualizado": "2026-09-07T10:08:54.764Z",
   "fuente": "riot-api",
   "jugadores": [
     {
@@ -18,7 +18,7 @@
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 50,
+      "deltaLp": 0,
       "posAnterior": 1,
       "opgg": "https://op.gg/lol/summoners/las/Thortito-3013"
     },
@@ -39,7 +39,7 @@
         "n": 0
       },
       "deltaLp": 1627,
-      "posAnterior": 2,
+      "posAnterior": 3,
       "opgg": "https://op.gg/lol/summoners/las/Chutinho-Chuto"
     },
     {
@@ -58,7 +58,7 @@
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 198,
+      "deltaLp": 88,
       "posAnterior": 5,
       "opgg": "https://op.gg/lol/summoners/las/ShawKDT-LAS"
     },
@@ -120,8 +120,8 @@
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 246,
-      "posAnterior": 6,
+      "deltaLp": 151,
+      "posAnterior": 7,
       "opgg": "https://op.gg/lol/summoners/las/td3030-LAS"
     },
     {
@@ -160,7 +160,7 @@
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 110,
+      "deltaLp": 84,
       "posAnterior": 10,
       "opgg": "https://op.gg/lol/summoners/las/Franqueiro-LAS"
     },
@@ -180,8 +180,8 @@
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 150,
-      "posAnterior": 7,
+      "deltaLp": 50,
+      "posAnterior": 6,
       "opgg": "https://op.gg/lol/summoners/las/NikyAll9-LAS"
     },
     {
@@ -240,7 +240,7 @@
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 130,
+      "deltaLp": 30,
       "posAnterior": 8,
       "opgg": "https://op.gg/lol/summoners/las/Jack0t-LAS"
     },
@@ -252,16 +252,16 @@
       "estado": "activo",
       "puuid": "deQZ-2Qwd8oq2gJcFhOhSZaN8b5KM5pof54aLJg7prYmGKYRgW90ewmKZBlBeMlRet_U0Ibs9-MrHg",
       "tier": "PLATINO",
-      "division": "IV",
-      "lp": 71,
-      "victorias": 31,
+      "division": "III",
+      "lp": 23,
+      "victorias": 33,
       "derrotas": 15,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 0,
-      "posAnterior": 3,
+      "deltaLp": 260,
+      "posAnterior": 2,
       "opgg": "https://op.gg/lol/summoners/las/gonzaimp-LAS"
     }
   ]
