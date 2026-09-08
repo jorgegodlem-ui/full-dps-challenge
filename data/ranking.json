@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-08T05:07:41.479Z",
+  "actualizado": "2026-09-08T09:48:59.922Z",
   "fuente": "riot-api",
   "jugadores": [
     {
@@ -19,7 +19,7 @@
         "n": 0
       },
       "deltaLp": 80,
-      "posAnterior": 2,
+      "posAnterior": 1,
       "opgg": "https://op.gg/lol/summoners/las/Thortito-3013"
     },
     {
@@ -261,7 +261,7 @@
         "n": 0
       },
       "deltaLp": 116,
-      "posAnterior": 1,
+      "posAnterior": 2,
       "opgg": "https://op.gg/lol/summoners/las/gonzaimp-LAS"
     }
   ]
