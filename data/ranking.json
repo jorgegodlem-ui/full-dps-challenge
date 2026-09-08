@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-08T13:55:36.427Z",
+  "actualizado": "2026-09-08T17:52:53.453Z",
   "fuente": "riot-api",
   "jugadores": [
     {
@@ -11,14 +11,14 @@
       "puuid": "vGAZRDKOqJ7u-6a7MAXJXXbNiXJjN2a997f3fzGuBH_E6qwxJAik4CrryzixOWUPTilyXwwr6sq-fw",
       "tier": "PLATINO",
       "division": "II",
-      "lp": 16,
-      "victorias": 31,
-      "derrotas": 31,
+      "lp": 66,
+      "victorias": 33,
+      "derrotas": 32,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 80,
+      "deltaLp": 170,
       "posAnterior": 1,
       "opgg": "https://op.gg/lol/summoners/las/Thortito-3013"
     },
@@ -51,14 +51,14 @@
       "puuid": "mZ0adpnkO3fZRD8rzYmSujJxgDl0qqXJpkX3Y5P9bkRMKwCyZFz1XbrrP2MjOux23FBlhIUK-CB4vA",
       "tier": "ORO",
       "division": "IV",
-      "lp": 90,
+      "lp": 80,
       "victorias": 31,
-      "derrotas": 19,
+      "derrotas": 20,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 90,
+      "deltaLp": 80,
       "posAnterior": 6,
       "opgg": "https://op.gg/lol/summoners/las/ShawKDT-LAS"
     },
@@ -72,8 +72,8 @@
       "tier": "",
       "division": "",
       "lp": 0,
-      "victorias": 0,
-      "derrotas": 0,
+      "victorias": 2,
+      "derrotas": 1,
       "racha": {
         "tipo": "W",
         "n": 0
@@ -81,7 +81,7 @@
       "deltaLp": 0,
       "posAnterior": 12,
       "opgg": "https://op.gg/lol/summoners/las/TeCarreoOniiChan-LAS",
-      "clasificatorias": 0
+      "clasificatorias": 3
     },
     {
       "id": "p05",
@@ -120,7 +120,7 @@
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 148,
+      "deltaLp": 121,
       "posAnterior": 7,
       "opgg": "https://op.gg/lol/summoners/las/td3030-LAS"
     },
@@ -172,15 +172,15 @@
       "estado": "activo",
       "puuid": "8wTWdJskpI0FXC4gPF7em-Rk8hfhbB38s34apQUtxoWcWpy87e46i7pifdSGmDPWGqQcnK2V9OcwmQ",
       "tier": "ORO",
-      "division": "III",
-      "lp": 27,
-      "victorias": 34,
-      "derrotas": 11,
+      "division": "II",
+      "lp": 7,
+      "victorias": 37,
+      "derrotas": 12,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 260,
+      "deltaLp": 280,
       "posAnterior": 5,
       "opgg": "https://op.gg/lol/summoners/las/NikyAll9-LAS"
     },
@@ -233,14 +233,14 @@
       "puuid": "HSX9OqTCvL7DovcDg3bCIL5Qp3C0r7_UG52eajS9NBUaQ8CQ0RAIl7QeecEiL1IowVegpxlHgToQQQ",
       "tier": "PLATA",
       "division": "IV",
-      "lp": 77,
-      "victorias": 28,
-      "derrotas": 34,
+      "lp": 55,
+      "victorias": 29,
+      "derrotas": 38,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 137,
+      "deltaLp": 35,
       "posAnterior": 8,
       "opgg": "https://op.gg/lol/summoners/las/Jack0t-LAS"
     },
