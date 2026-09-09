@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-09T06:05:07.165Z",
+  "actualizado": "2026-09-09T11:14:38.099Z",
   "fuente": "riot-api",
   "jugadores": [
     {
@@ -192,16 +192,16 @@
       "estado": "activo",
       "puuid": "ZOr_7E_pswbFnzOvvqN1NUED0ZMCoDT3Hk7BvQvXoiNhYXicNZWkQ5P6DqIBRt2BgHgOFdrOsLmgxQ",
       "tier": "PLATINO",
-      "division": "II",
-      "lp": 5,
+      "division": "III",
+      "lp": 93,
       "victorias": 23,
-      "derrotas": 15,
+      "derrotas": 16,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 205,
-      "posAnterior": 3,
+      "deltaLp": 193,
+      "posAnterior": 2,
       "opgg": "https://op.gg/lol/summoners/las/Chapayev-LAS"
     },
     {
@@ -261,7 +261,7 @@
         "n": 0
       },
       "deltaLp": 0,
-      "posAnterior": 2,
+      "posAnterior": 3,
       "opgg": "https://op.gg/lol/summoners/las/gonzaimp-LAS"
     }
   ]
