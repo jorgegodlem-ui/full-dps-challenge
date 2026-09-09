@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-09T11:14:38.099Z",
+  "actualizado": "2026-09-09T15:09:53.161Z",
   "fuente": "riot-api",
   "jugadores": [
     {
@@ -11,14 +11,14 @@
       "puuid": "vGAZRDKOqJ7u-6a7MAXJXXbNiXJjN2a997f3fzGuBH_E6qwxJAik4CrryzixOWUPTilyXwwr6sq-fw",
       "tier": "PLATINO",
       "division": "II",
-      "lp": 66,
+      "lp": 56,
       "victorias": 33,
-      "derrotas": 32,
+      "derrotas": 33,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 50,
+      "deltaLp": 40,
       "posAnterior": 1,
       "opgg": "https://op.gg/lol/summoners/las/Thortito-3013"
     },
@@ -69,19 +69,18 @@
       "rol": "JUNGLA",
       "estado": "activo",
       "puuid": "ZWd3crWmmZtxyA2OnDFQwW39VyFDanLDKwKbOEbLdK9QaKQy-FC_cLwYLypvMv2PqbOD8TMvxWw6OA",
-      "tier": "",
-      "division": "",
-      "lp": 0,
-      "victorias": 2,
+      "tier": "BRONCE",
+      "division": "I",
+      "lp": 55,
+      "victorias": 3,
       "derrotas": 2,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 0,
+      "deltaLp": 755,
       "posAnterior": 12,
-      "opgg": "https://op.gg/lol/summoners/las/TeCarreoOniiChan-LAS",
-      "clasificatorias": 4
+      "opgg": "https://op.gg/lol/summoners/las/TeCarreoOniiChan-LAS"
     },
     {
       "id": "p05",
@@ -240,7 +239,7 @@
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": -18,
+      "deltaLp": -36,
       "posAnterior": 9,
       "opgg": "https://op.gg/lol/summoners/las/Jack0t-LAS"
     },
