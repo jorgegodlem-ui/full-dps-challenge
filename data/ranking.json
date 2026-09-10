@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-10T06:04:09.779Z",
+  "actualizado": "2026-09-10T11:10:30.106Z",
   "fuente": "riot-api",
   "jugadores": [
     {
@@ -180,7 +180,7 @@
         "n": 0
       },
       "deltaLp": 290,
-      "posAnterior": 3,
+      "posAnterior": 2,
       "opgg": "https://op.gg/lol/summoners/las/NikyAll9-LAS"
     },
     {
@@ -199,7 +199,7 @@
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 3,
+      "deltaLp": -72,
       "posAnterior": 4,
       "opgg": "https://op.gg/lol/summoners/las/Chapayev-LAS"
     },
@@ -251,16 +251,16 @@
       "estado": "activo",
       "puuid": "deQZ-2Qwd8oq2gJcFhOhSZaN8b5KM5pof54aLJg7prYmGKYRgW90ewmKZBlBeMlRet_U0Ibs9-MrHg",
       "tier": "PLATINO",
-      "division": "III",
-      "lp": 68,
-      "victorias": 40,
+      "division": "II",
+      "lp": 34,
+      "victorias": 43,
       "derrotas": 24,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": -19,
-      "posAnterior": 2,
+      "deltaLp": 47,
+      "posAnterior": 3,
       "opgg": "https://op.gg/lol/summoners/las/gonzaimp-LAS"
     }
   ]
