@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-12T00:34:17.018Z",
+  "actualizado": "2026-09-12T04:57:44.823Z",
   "fuente": "riot-api",
   "jugadores": [
     {
@@ -11,14 +11,14 @@
       "puuid": "vGAZRDKOqJ7u-6a7MAXJXXbNiXJjN2a997f3fzGuBH_E6qwxJAik4CrryzixOWUPTilyXwwr6sq-fw",
       "tier": "PLATINO",
       "division": "II",
-      "lp": 38,
-      "victorias": 41,
+      "lp": 62,
+      "victorias": 42,
       "derrotas": 50,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 4,
+      "deltaLp": 33,
       "posAnterior": 3,
       "opgg": "https://op.gg/lol/summoners/las/Thortito-3013"
     },
@@ -58,7 +58,7 @@
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 0,
+      "deltaLp": 10,
       "posAnterior": 6,
       "opgg": "https://op.gg/lol/summoners/las/ShawKDT-LAS"
     },
@@ -119,7 +119,7 @@
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": -18,
+      "deltaLp": -66,
       "posAnterior": 7,
       "opgg": "https://op.gg/lol/summoners/las/td3030-LAS"
     },
@@ -171,15 +171,15 @@
       "estado": "activo",
       "puuid": "8wTWdJskpI0FXC4gPF7em-Rk8hfhbB38s34apQUtxoWcWpy87e46i7pifdSGmDPWGqQcnK2V9OcwmQ",
       "tier": "ESMERALDA",
-      "division": "III",
-      "lp": 3,
+      "division": "IV",
+      "lp": 90,
       "victorias": 63,
-      "derrotas": 29,
+      "derrotas": 30,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 26,
+      "deltaLp": 3,
       "posAnterior": 1,
       "opgg": "https://op.gg/lol/summoners/las/NikyAll9-LAS"
     },
@@ -192,14 +192,14 @@
       "puuid": "ZOr_7E_pswbFnzOvvqN1NUED0ZMCoDT3Hk7BvQvXoiNhYXicNZWkQ5P6DqIBRt2BgHgOFdrOsLmgxQ",
       "tier": "PLATINO",
       "division": "III",
-      "lp": 47,
-      "victorias": 27,
+      "lp": 70,
+      "victorias": 28,
       "derrotas": 27,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 6,
+      "deltaLp": 29,
       "posAnterior": 4,
       "opgg": "https://op.gg/lol/summoners/las/Chapayev-LAS"
     },
@@ -259,7 +259,7 @@
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 9,
+      "deltaLp": -15,
       "posAnterior": 2,
       "opgg": "https://op.gg/lol/summoners/las/gonzaimp-LAS"
     }
