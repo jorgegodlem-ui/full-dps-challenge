@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-11T22:31:06.671Z",
+  "actualizado": "2026-09-12T00:34:17.018Z",
   "fuente": "riot-api",
   "jugadores": [
     {
@@ -58,7 +58,7 @@
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 30,
+      "deltaLp": 0,
       "posAnterior": 6,
       "opgg": "https://op.gg/lol/summoners/las/ShawKDT-LAS"
     },
@@ -119,7 +119,7 @@
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": -27,
+      "deltaLp": -18,
       "posAnterior": 7,
       "opgg": "https://op.gg/lol/summoners/las/td3030-LAS"
     },
@@ -132,14 +132,14 @@
       "puuid": "AzSkCnn_Hm706hTwHh5X-1xMHxA3t9xDMdaD6b503pX573BVdHX0HbueoyCz1OQFhn72XXCTzU4OdA",
       "tier": "BRONCE",
       "division": "III",
-      "lp": 23,
-      "victorias": 9,
+      "lp": 52,
+      "victorias": 10,
       "derrotas": 10,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": -11,
+      "deltaLp": 18,
       "posAnterior": 12,
       "opgg": "https://op.gg/lol/summoners/las/Pigoku-UwU"
     },
@@ -172,14 +172,14 @@
       "puuid": "8wTWdJskpI0FXC4gPF7em-Rk8hfhbB38s34apQUtxoWcWpy87e46i7pifdSGmDPWGqQcnK2V9OcwmQ",
       "tier": "ESMERALDA",
       "division": "III",
-      "lp": 1,
-      "victorias": 62,
-      "derrotas": 27,
+      "lp": 3,
+      "victorias": 63,
+      "derrotas": 29,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 84,
+      "deltaLp": 26,
       "posAnterior": 1,
       "opgg": "https://op.gg/lol/summoners/las/NikyAll9-LAS"
     },
@@ -259,7 +259,7 @@
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 30,
+      "deltaLp": 9,
       "posAnterior": 2,
       "opgg": "https://op.gg/lol/summoners/las/gonzaimp-LAS"
     }
