@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-12T16:12:48.432Z",
+  "actualizado": "2026-09-12T18:28:37.110Z",
   "fuente": "riot-api",
   "jugadores": [
     {
@@ -18,7 +18,7 @@
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 24,
+      "deltaLp": 32,
       "posAnterior": 3,
       "opgg": "https://op.gg/lol/summoners/las/Thortito-3013"
     },
@@ -179,7 +179,7 @@
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": -45,
+      "deltaLp": -65,
       "posAnterior": 1,
       "opgg": "https://op.gg/lol/summoners/las/NikyAll9-LAS"
     },
