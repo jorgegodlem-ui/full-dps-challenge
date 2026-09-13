@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-12T22:58:11.483Z",
+  "actualizado": "2026-09-13T00:52:03.247Z",
   "fuente": "riot-api",
   "jugadores": [
     {
@@ -31,14 +31,14 @@
       "puuid": "fBWMr9ozyBNpxp4rxFGrDuMhWRJX1ioTDEG6Sj51YbSpJ-KBHxnK53EkvDzKuYThcllDZwxaykT8jQ",
       "tier": "PLATINO",
       "division": "IV",
-      "lp": 57,
-      "victorias": 18,
+      "lp": 87,
+      "victorias": 19,
       "derrotas": 12,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 30,
+      "deltaLp": 60,
       "posAnterior": 5,
       "opgg": "https://op.gg/lol/summoners/las/Chutinho-Chuto"
     },
@@ -139,7 +139,7 @@
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 58,
+      "deltaLp": 29,
       "posAnterior": 12,
       "opgg": "https://op.gg/lol/summoners/las/Pigoku-UwU"
     },
@@ -179,7 +179,7 @@
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": -39,
+      "deltaLp": -41,
       "posAnterior": 1,
       "opgg": "https://op.gg/lol/summoners/las/NikyAll9-LAS"
     },
@@ -252,14 +252,14 @@
       "puuid": "deQZ-2Qwd8oq2gJcFhOhSZaN8b5KM5pof54aLJg7prYmGKYRgW90ewmKZBlBeMlRet_U0Ibs9-MrHg",
       "tier": "PLATINO",
       "division": "I",
-      "lp": 64,
-      "victorias": 60,
-      "derrotas": 38,
+      "lp": 66,
+      "victorias": 61,
+      "derrotas": 39,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 86,
+      "deltaLp": 88,
       "posAnterior": 2,
       "opgg": "https://op.gg/lol/summoners/las/gonzaimp-LAS"
     }
