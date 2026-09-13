@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-13T19:52:51.032Z",
+  "actualizado": "2026-09-13T22:20:45.514Z",
   "fuente": "riot-api",
   "jugadores": [
     {
@@ -38,7 +38,7 @@
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 60,
+      "deltaLp": 30,
       "posAnterior": 5,
       "opgg": "https://op.gg/lol/summoners/las/Chutinho-Chuto"
     },
@@ -112,14 +112,14 @@
       "puuid": "T9SMneMdsQ6Qee_LyhCalQDzihKAA4WbavEJgh5h6lAT1QEL93w3-3xVn2qLAsJDv0z4UgbMutTvwA",
       "tier": "ORO",
       "division": "III",
-      "lp": 85,
-      "victorias": 57,
-      "derrotas": 48,
+      "lp": 87,
+      "victorias": 58,
+      "derrotas": 49,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 58,
+      "deltaLp": 60,
       "posAnterior": 7,
       "opgg": "https://op.gg/lol/summoners/las/td3030-LAS"
     },
@@ -199,7 +199,7 @@
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": -11,
+      "deltaLp": -34,
       "posAnterior": 4,
       "opgg": "https://op.gg/lol/summoners/las/Chapayev-LAS"
     },
@@ -259,7 +259,7 @@
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 122,
+      "deltaLp": 99,
       "posAnterior": 2,
       "opgg": "https://op.gg/lol/summoners/las/gonzaimp-LAS"
     }
