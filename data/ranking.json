@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-14T16:30:40.556Z",
+  "actualizado": "2026-09-14T20:28:04.740Z",
   "fuente": "riot-api",
   "jugadores": [
     {
@@ -11,14 +11,14 @@
       "puuid": "vGAZRDKOqJ7u-6a7MAXJXXbNiXJjN2a997f3fzGuBH_E6qwxJAik4CrryzixOWUPTilyXwwr6sq-fw",
       "tier": "PLATINO",
       "division": "II",
-      "lp": 28,
+      "lp": 11,
       "victorias": 42,
-      "derrotas": 52,
+      "derrotas": 53,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": -34,
+      "deltaLp": -51,
       "posAnterior": 3,
       "opgg": "https://op.gg/lol/summoners/las/Thortito-3013"
     },
@@ -50,15 +50,15 @@
       "estado": "activo",
       "puuid": "mZ0adpnkO3fZRD8rzYmSujJxgDl0qqXJpkX3Y5P9bkRMKwCyZFz1XbrrP2MjOux23FBlhIUK-CB4vA",
       "tier": "ORO",
-      "division": "II",
-      "lp": 81,
-      "victorias": 38,
+      "division": "I",
+      "lp": 11,
+      "victorias": 39,
       "derrotas": 24,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 0,
+      "deltaLp": 30,
       "posAnterior": 6,
       "opgg": "https://op.gg/lol/summoners/las/ShawKDT-LAS"
     },
@@ -71,14 +71,14 @@
       "puuid": "ZWd3crWmmZtxyA2OnDFQwW39VyFDanLDKwKbOEbLdK9QaKQy-FC_cLwYLypvMv2PqbOD8TMvxWw6OA",
       "tier": "PLATA",
       "division": "IV",
-      "lp": 0,
-      "victorias": 5,
-      "derrotas": 7,
+      "lp": 60,
+      "victorias": 7,
+      "derrotas": 8,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 0,
+      "deltaLp": 60,
       "posAnterior": 10,
       "opgg": "https://op.gg/lol/summoners/las/TeCarreoOniiChan-LAS"
     },
@@ -150,16 +150,16 @@
       "rol": "TOP",
       "estado": "activo",
       "puuid": "ZaLNjUebsrFEzw386bIdBjigy-aLpkVXjyMNeq6xaowC6T8E7wK0NOzSjwBooiI-yn30eBIIt6tltA",
-      "tier": "BRONCE",
-      "division": "I",
-      "lp": 93,
-      "victorias": 29,
-      "derrotas": 20,
+      "tier": "PLATA",
+      "division": "IV",
+      "lp": 13,
+      "victorias": 30,
+      "derrotas": 21,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 59,
+      "deltaLp": 79,
       "posAnterior": 11,
       "opgg": "https://op.gg/lol/summoners/las/Franqueiro-LAS"
     },
@@ -259,7 +259,7 @@
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": -6,
+      "deltaLp": 0,
       "posAnterior": 2,
       "opgg": "https://op.gg/lol/summoners/las/gonzaimp-LAS"
     }
