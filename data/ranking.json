@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-14T10:33:44.366Z",
+  "actualizado": "2026-09-14T16:30:40.556Z",
   "fuente": "riot-api",
   "jugadores": [
     {
@@ -11,14 +11,14 @@
       "puuid": "vGAZRDKOqJ7u-6a7MAXJXXbNiXJjN2a997f3fzGuBH_E6qwxJAik4CrryzixOWUPTilyXwwr6sq-fw",
       "tier": "PLATINO",
       "division": "II",
-      "lp": 62,
+      "lp": 28,
       "victorias": 42,
-      "derrotas": 50,
+      "derrotas": 52,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 0,
+      "deltaLp": -34,
       "posAnterior": 3,
       "opgg": "https://op.gg/lol/summoners/las/Thortito-3013"
     },
@@ -112,14 +112,14 @@
       "puuid": "T9SMneMdsQ6Qee_LyhCalQDzihKAA4WbavEJgh5h6lAT1QEL93w3-3xVn2qLAsJDv0z4UgbMutTvwA",
       "tier": "ORO",
       "division": "III",
-      "lp": 67,
-      "victorias": 58,
+      "lp": 87,
+      "victorias": 59,
       "derrotas": 50,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": -16,
+      "deltaLp": 2,
       "posAnterior": 7,
       "opgg": "https://op.gg/lol/summoners/las/td3030-LAS"
     },
@@ -259,7 +259,7 @@
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 34,
+      "deltaLp": -6,
       "posAnterior": 2,
       "opgg": "https://op.gg/lol/summoners/las/gonzaimp-LAS"
     }
