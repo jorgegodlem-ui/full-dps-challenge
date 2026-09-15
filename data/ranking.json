@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-15T06:48:16.647Z",
+  "actualizado": "2026-09-15T12:14:11.474Z",
   "fuente": "riot-api",
   "jugadores": [
     {
@@ -199,7 +199,7 @@
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 23,
+      "deltaLp": 0,
       "posAnterior": 4,
       "opgg": "https://op.gg/lol/summoners/las/Chapayev-LAS"
     },
