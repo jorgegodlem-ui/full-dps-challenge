@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-15T01:51:05.353Z",
+  "actualizado": "2026-09-15T06:48:16.647Z",
   "fuente": "riot-api",
   "jugadores": [
     {
@@ -159,7 +159,7 @@
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 188,
+      "deltaLp": 129,
       "posAnterior": 9,
       "opgg": "https://op.gg/lol/summoners/las/Franqueiro-LAS"
     },
@@ -199,7 +199,7 @@
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 45,
+      "deltaLp": 23,
       "posAnterior": 4,
       "opgg": "https://op.gg/lol/summoners/las/Chapayev-LAS"
     },
