@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-16T19:03:25.307Z",
+  "actualizado": "2026-09-16T22:04:32.183Z",
   "fuente": "riot-api",
   "jugadores": [
     {
@@ -18,7 +18,7 @@
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 6,
+      "deltaLp": 23,
       "posAnterior": 4,
       "opgg": "https://op.gg/lol/summoners/las/Thortito-3013"
     },
@@ -58,7 +58,7 @@
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 47,
+      "deltaLp": 57,
       "posAnterior": 6,
       "opgg": "https://op.gg/lol/summoners/las/ShawKDT-LAS"
     },
@@ -78,7 +78,7 @@
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 70,
+      "deltaLp": 50,
       "posAnterior": 10,
       "opgg": "https://op.gg/lol/summoners/las/TeCarreoOniiChan-LAS"
     },
@@ -91,14 +91,14 @@
       "puuid": "pEu4T-qxKloLk2FEBNJhpg8ckpjFoN1aOgz9-c4quJE1UYzSqIHt1EhPKG-SABjsm5GbKgVLoZNSCw",
       "tier": "BRONCE",
       "division": "IV",
-      "lp": 32,
+      "lp": 22,
       "victorias": 3,
-      "derrotas": 5,
+      "derrotas": 6,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 432,
+      "deltaLp": 422,
       "posAnterior": 13,
       "opgg": "https://op.gg/lol/summoners/las/Kromosomen-LPDWZ"
     },
@@ -158,7 +158,7 @@
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 53,
+      "deltaLp": 35,
       "posAnterior": 9,
       "opgg": "https://op.gg/lol/summoners/las/Franqueiro-LAS"
     },
