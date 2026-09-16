@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-16T01:19:59.755Z",
+  "actualizado": "2026-09-16T06:10:15.810Z",
   "fuente": "riot-api",
   "jugadores": [
     {
@@ -71,14 +71,14 @@
       "puuid": "ZWd3crWmmZtxyA2OnDFQwW39VyFDanLDKwKbOEbLdK9QaKQy-FC_cLwYLypvMv2PqbOD8TMvxWw6OA",
       "tier": "PLATA",
       "division": "III",
-      "lp": 41,
-      "victorias": 11,
+      "lp": 71,
+      "victorias": 12,
       "derrotas": 12,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 91,
+      "deltaLp": 101,
       "posAnterior": 10,
       "opgg": "https://op.gg/lol/summoners/las/TeCarreoOniiChan-LAS"
     },
@@ -159,7 +159,7 @@
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 72,
+      "deltaLp": 53,
       "posAnterior": 9,
       "opgg": "https://op.gg/lol/summoners/las/Franqueiro-LAS"
     },
@@ -219,7 +219,7 @@
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 30,
+      "deltaLp": 0,
       "posAnterior": 8,
       "opgg": "https://op.gg/lol/summoners/las/SaisojPM-LAS"
     },
