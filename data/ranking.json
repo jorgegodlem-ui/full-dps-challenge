@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-17T05:15:49.294Z",
+  "actualizado": "2026-09-17T10:04:47.277Z",
   "fuente": "riot-api",
   "jugadores": [
     {
@@ -78,8 +78,8 @@
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 110,
-      "posAnterior": 9,
+      "deltaLp": 80,
+      "posAnterior": 8,
       "opgg": "https://op.gg/lol/summoners/las/TeCarreoOniiChan-LAS"
     },
     {
@@ -219,7 +219,7 @@
         "n": 0
       },
       "deltaLp": 20,
-      "posAnterior": 8,
+      "posAnterior": 9,
       "opgg": "https://op.gg/lol/summoners/las/SaisojPM-LAS"
     },
     {
