@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-17T18:57:03.801Z",
+  "actualizado": "2026-09-17T22:05:22.849Z",
   "fuente": "riot-api",
   "jugadores": [
     {
@@ -49,16 +49,16 @@
       "rol": "MEDIO",
       "estado": "activo",
       "puuid": "mZ0adpnkO3fZRD8rzYmSujJxgDl0qqXJpkX3Y5P9bkRMKwCyZFz1XbrrP2MjOux23FBlhIUK-CB4vA",
-      "tier": "ORO",
-      "division": "I",
-      "lp": 97,
-      "victorias": 45,
-      "derrotas": 32,
+      "tier": "PLATINO",
+      "division": "IV",
+      "lp": 11,
+      "victorias": 46,
+      "derrotas": 33,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 77,
+      "deltaLp": 33,
       "posAnterior": 6,
       "opgg": "https://op.gg/lol/summoners/las/ShawKDT-LAS"
     },
@@ -79,7 +79,7 @@
         "n": 0
       },
       "deltaLp": 80,
-      "posAnterior": 8,
+      "posAnterior": 9,
       "opgg": "https://op.gg/lol/summoners/las/TeCarreoOniiChan-LAS"
     },
     {
@@ -98,7 +98,7 @@
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 512,
+      "deltaLp": 90,
       "posAnterior": 13,
       "opgg": "https://op.gg/lol/summoners/las/Kromosomen-LPDWZ"
     },
@@ -219,7 +219,7 @@
         "n": 0
       },
       "deltaLp": 50,
-      "posAnterior": 9,
+      "posAnterior": 8,
       "opgg": "https://op.gg/lol/summoners/las/SaisojPM-LAS"
     },
     {
