@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-18T17:17:10.797Z",
+  "actualizado": "2026-09-18T19:42:42.021Z",
   "fuente": "riot-api",
   "jugadores": [
     {
@@ -58,7 +58,7 @@
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 174,
+      "deltaLp": 131,
       "posAnterior": 5,
       "opgg": "https://op.gg/lol/summoners/las/ShawKDT-LAS"
     },
@@ -98,7 +98,7 @@
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 200,
+      "deltaLp": 140,
       "posAnterior": 12,
       "opgg": "https://op.gg/lol/summoners/las/Kromosomen-LPDWZ"
     },
@@ -158,7 +158,7 @@
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": -25,
+      "deltaLp": 0,
       "posAnterior": 10,
       "opgg": "https://op.gg/lol/summoners/las/Franqueiro-LAS"
     },
@@ -218,7 +218,7 @@
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 30,
+      "deltaLp": 0,
       "posAnterior": 8,
       "opgg": "https://op.gg/lol/summoners/las/SaisojPM-LAS"
     },
