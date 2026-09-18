@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-18T13:48:09.219Z",
+  "actualizado": "2026-09-18T17:17:10.797Z",
   "fuente": "riot-api",
   "jugadores": [
     {
@@ -51,14 +51,14 @@
       "puuid": "mZ0adpnkO3fZRD8rzYmSujJxgDl0qqXJpkX3Y5P9bkRMKwCyZFz1XbrrP2MjOux23FBlhIUK-CB4vA",
       "tier": "PLATINO",
       "division": "III",
-      "lp": 3,
-      "victorias": 49,
+      "lp": 28,
+      "victorias": 50,
       "derrotas": 34,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 149,
+      "deltaLp": 174,
       "posAnterior": 5,
       "opgg": "https://op.gg/lol/summoners/las/ShawKDT-LAS"
     },
@@ -230,15 +230,15 @@
       "estado": "activo",
       "puuid": "HSX9OqTCvL7DovcDg3bCIL5Qp3C0r7_UG52eajS9NBUaQ8CQ0RAIl7QeecEiL1IowVegpxlHgToQQQ",
       "tier": "PLATA",
-      "division": "III",
-      "lp": 39,
+      "division": "IV",
+      "lp": 95,
       "victorias": 34,
-      "derrotas": 41,
+      "derrotas": 44,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 98,
+      "deltaLp": 54,
       "posAnterior": 11,
       "opgg": "https://op.gg/lol/summoners/las/Jack0t-LAS"
     },
