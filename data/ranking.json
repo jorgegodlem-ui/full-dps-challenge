@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-17T22:05:22.849Z",
+  "actualizado": "2026-09-18T00:10:39.973Z",
   "fuente": "riot-api",
   "jugadores": [
     {
@@ -51,14 +51,14 @@
       "puuid": "mZ0adpnkO3fZRD8rzYmSujJxgDl0qqXJpkX3Y5P9bkRMKwCyZFz1XbrrP2MjOux23FBlhIUK-CB4vA",
       "tier": "PLATINO",
       "division": "IV",
-      "lp": 11,
-      "victorias": 46,
+      "lp": 65,
+      "victorias": 47,
       "derrotas": 33,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 33,
+      "deltaLp": 87,
       "posAnterior": 6,
       "opgg": "https://op.gg/lol/summoners/las/ShawKDT-LAS"
     },
@@ -91,14 +91,14 @@
       "puuid": "pEu4T-qxKloLk2FEBNJhpg8ckpjFoN1aOgz9-c4quJE1UYzSqIHt1EhPKG-SABjsm5GbKgVLoZNSCw",
       "tier": "BRONCE",
       "division": "III",
-      "lp": 12,
-      "victorias": 6,
+      "lp": 42,
+      "victorias": 7,
       "derrotas": 6,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 90,
+      "deltaLp": 120,
       "posAnterior": 13,
       "opgg": "https://op.gg/lol/summoners/las/Kromosomen-LPDWZ"
     },
@@ -193,7 +193,7 @@
       "division": "II",
       "lp": 33,
       "victorias": 33,
-      "derrotas": 30,
+      "derrotas": 31,
       "racha": {
         "tipo": "W",
         "n": 0
@@ -231,14 +231,14 @@
       "puuid": "HSX9OqTCvL7DovcDg3bCIL5Qp3C0r7_UG52eajS9NBUaQ8CQ0RAIl7QeecEiL1IowVegpxlHgToQQQ",
       "tier": "PLATA",
       "division": "IV",
-      "lp": 41,
-      "victorias": 29,
-      "derrotas": 39,
+      "lp": 63,
+      "victorias": 31,
+      "derrotas": 41,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 0,
+      "deltaLp": 22,
       "posAnterior": 11,
       "opgg": "https://op.gg/lol/summoners/las/Jack0t-LAS"
     },
