@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-19T22:57:51.110Z",
+  "actualizado": "2026-09-20T00:59:13.057Z",
   "fuente": "riot-api",
   "jugadores": [
     {
@@ -211,14 +211,14 @@
       "puuid": "dMBELKxSjsMwVRo6Fx0bGo2Uk3E02VPK8kjEl0OaSVdJWZpLIHJEhyxLwsgSDqJnlTxKB-040MyF_Q",
       "tier": "PLATA",
       "division": "II",
-      "lp": 68,
+      "lp": 58,
       "victorias": 24,
-      "derrotas": 2,
+      "derrotas": 3,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 0,
+      "deltaLp": -10,
       "posAnterior": 8,
       "opgg": "https://op.gg/lol/summoners/las/SaisojPM-LAS"
     },
