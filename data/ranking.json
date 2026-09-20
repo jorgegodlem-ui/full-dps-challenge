@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-20T14:43:59.085Z",
+  "actualizado": "2026-09-20T17:42:51.336Z",
   "fuente": "riot-api",
   "jugadores": [
     {
@@ -51,14 +51,14 @@
       "puuid": "mZ0adpnkO3fZRD8rzYmSujJxgDl0qqXJpkX3Y5P9bkRMKwCyZFz1XbrrP2MjOux23FBlhIUK-CB4vA",
       "tier": "PLATINO",
       "division": "III",
-      "lp": 28,
-      "victorias": 50,
-      "derrotas": 34,
+      "lp": 24,
+      "victorias": 51,
+      "derrotas": 36,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 0,
+      "deltaLp": -4,
       "posAnterior": 5,
       "opgg": "https://op.gg/lol/summoners/las/ShawKDT-LAS"
     },
@@ -98,7 +98,7 @@
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 30,
+      "deltaLp": 0,
       "posAnterior": 12,
       "opgg": "https://op.gg/lol/summoners/las/Kromosomen-LPDWZ"
     },
@@ -210,15 +210,15 @@
       "estado": "activo",
       "puuid": "dMBELKxSjsMwVRo6Fx0bGo2Uk3E02VPK8kjEl0OaSVdJWZpLIHJEhyxLwsgSDqJnlTxKB-040MyF_Q",
       "tier": "PLATA",
-      "division": "II",
-      "lp": 88,
-      "victorias": 25,
+      "division": "I",
+      "lp": 78,
+      "victorias": 28,
       "derrotas": 3,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 20,
+      "deltaLp": 110,
       "posAnterior": 8,
       "opgg": "https://op.gg/lol/summoners/las/SaisojPM-LAS"
     },
