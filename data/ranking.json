@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-20T19:49:51.555Z",
+  "actualizado": "2026-09-20T21:55:48.145Z",
   "fuente": "riot-api",
   "jugadores": [
     {
@@ -191,14 +191,14 @@
       "puuid": "ZOr_7E_pswbFnzOvvqN1NUED0ZMCoDT3Hk7BvQvXoiNhYXicNZWkQ5P6DqIBRt2BgHgOFdrOsLmgxQ",
       "tier": "PLATINO",
       "division": "II",
-      "lp": 19,
+      "lp": 0,
       "victorias": 34,
-      "derrotas": 33,
+      "derrotas": 34,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 0,
+      "deltaLp": -19,
       "posAnterior": 3,
       "opgg": "https://op.gg/lol/summoners/las/Chapayev-LAS"
     },
