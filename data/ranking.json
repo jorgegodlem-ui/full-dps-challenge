@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-21T05:06:34.538Z",
+  "actualizado": "2026-09-21T10:38:36.687Z",
   "fuente": "riot-api",
   "jugadores": [
     {
@@ -91,14 +91,14 @@
       "puuid": "pEu4T-qxKloLk2FEBNJhpg8ckpjFoN1aOgz9-c4quJE1UYzSqIHt1EhPKG-SABjsm5GbKgVLoZNSCw",
       "tier": "BRONCE",
       "division": "I",
-      "lp": 62,
-      "victorias": 13,
+      "lp": 92,
+      "victorias": 14,
       "derrotas": 8,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 80,
+      "deltaLp": 110,
       "posAnterior": 12,
       "opgg": "https://op.gg/lol/summoners/las/Kromosomen-LPDWZ"
     },
@@ -218,7 +218,7 @@
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 180,
+      "deltaLp": 150,
       "posAnterior": 8,
       "opgg": "https://op.gg/lol/summoners/las/SaisojPM-LAS"
     },
@@ -258,7 +258,7 @@
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 20,
+      "deltaLp": 0,
       "posAnterior": 2,
       "opgg": "https://op.gg/lol/summoners/las/gonzaimp-LAS"
     }
