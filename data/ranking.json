@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-21T10:38:36.687Z",
+  "actualizado": "2026-09-21T16:38:21.916Z",
   "fuente": "riot-api",
   "jugadores": [
     {
@@ -10,15 +10,15 @@
       "estado": "activo",
       "puuid": "vGAZRDKOqJ7u-6a7MAXJXXbNiXJjN2a997f3fzGuBH_E6qwxJAik4CrryzixOWUPTilyXwwr6sq-fw",
       "tier": "PLATINO",
-      "division": "III",
-      "lp": 66,
-      "victorias": 44,
-      "derrotas": 58,
+      "division": "II",
+      "lp": 33,
+      "victorias": 48,
+      "derrotas": 59,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 0,
+      "deltaLp": 67,
       "posAnterior": 4,
       "opgg": "https://op.gg/lol/summoners/las/Thortito-3013"
     },
@@ -70,15 +70,15 @@
       "estado": "activo",
       "puuid": "ZWd3crWmmZtxyA2OnDFQwW39VyFDanLDKwKbOEbLdK9QaKQy-FC_cLwYLypvMv2PqbOD8TMvxWw6OA",
       "tier": "PLATA",
-      "division": "II",
-      "lp": 81,
-      "victorias": 16,
-      "derrotas": 13,
+      "division": "I",
+      "lp": 21,
+      "victorias": 18,
+      "derrotas": 15,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 30,
+      "deltaLp": 70,
       "posAnterior": 9,
       "opgg": "https://op.gg/lol/summoners/las/TeCarreoOniiChan-LAS"
     },
@@ -89,16 +89,16 @@
       "rol": "MEDIO",
       "estado": "activo",
       "puuid": "pEu4T-qxKloLk2FEBNJhpg8ckpjFoN1aOgz9-c4quJE1UYzSqIHt1EhPKG-SABjsm5GbKgVLoZNSCw",
-      "tier": "BRONCE",
-      "division": "I",
-      "lp": 92,
-      "victorias": 14,
-      "derrotas": 8,
+      "tier": "PLATA",
+      "division": "IV",
+      "lp": 32,
+      "victorias": 16,
+      "derrotas": 10,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 110,
+      "deltaLp": 150,
       "posAnterior": 12,
       "opgg": "https://op.gg/lol/summoners/las/Kromosomen-LPDWZ"
     },
@@ -211,14 +211,14 @@
       "puuid": "dMBELKxSjsMwVRo6Fx0bGo2Uk3E02VPK8kjEl0OaSVdJWZpLIHJEhyxLwsgSDqJnlTxKB-040MyF_Q",
       "tier": "ORO",
       "division": "IV",
-      "lp": 38,
-      "victorias": 29,
-      "derrotas": 3,
+      "lp": 58,
+      "victorias": 30,
+      "derrotas": 4,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 150,
+      "deltaLp": 170,
       "posAnterior": 8,
       "opgg": "https://op.gg/lol/summoners/las/SaisojPM-LAS"
     },
