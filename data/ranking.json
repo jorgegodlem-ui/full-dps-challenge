@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-21T20:40:14.887Z",
+  "actualizado": "2026-09-21T23:41:05.132Z",
   "fuente": "riot-api",
   "jugadores": [
     {
@@ -73,7 +73,7 @@
       "division": "I",
       "lp": 76,
       "victorias": 20,
-      "derrotas": 15,
+      "derrotas": 16,
       "racha": {
         "tipo": "W",
         "n": 0
@@ -150,15 +150,15 @@
       "estado": "activo",
       "puuid": "ZaLNjUebsrFEzw386bIdBjigy-aLpkVXjyMNeq6xaowC6T8E7wK0NOzSjwBooiI-yn30eBIIt6tltA",
       "tier": "PLATA",
-      "division": "III",
-      "lp": 77,
-      "victorias": 38,
+      "division": "II",
+      "lp": 4,
+      "victorias": 39,
       "derrotas": 27,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 27,
+      "deltaLp": 54,
       "posAnterior": 10,
       "opgg": "https://op.gg/lol/summoners/las/Franqueiro-LAS"
     },
@@ -171,14 +171,14 @@
       "puuid": "8wTWdJskpI0FXC4gPF7em-Rk8hfhbB38s34apQUtxoWcWpy87e46i7pifdSGmDPWGqQcnK2V9OcwmQ",
       "tier": "ESMERALDA",
       "division": "IV",
-      "lp": 62,
+      "lp": 47,
       "victorias": 63,
-      "derrotas": 32,
+      "derrotas": 33,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 0,
+      "deltaLp": -15,
       "posAnterior": 1,
       "opgg": "https://op.gg/lol/summoners/las/NikyAll9-LAS"
     },
@@ -198,7 +198,7 @@
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": -19,
+      "deltaLp": 0,
       "posAnterior": 4,
       "opgg": "https://op.gg/lol/summoners/las/Chapayev-LAS"
     },
@@ -211,14 +211,14 @@
       "puuid": "dMBELKxSjsMwVRo6Fx0bGo2Uk3E02VPK8kjEl0OaSVdJWZpLIHJEhyxLwsgSDqJnlTxKB-040MyF_Q",
       "tier": "ORO",
       "division": "III",
-      "lp": 78,
+      "lp": 68,
       "victorias": 34,
-      "derrotas": 4,
+      "derrotas": 5,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 200,
+      "deltaLp": 190,
       "posAnterior": 8,
       "opgg": "https://op.gg/lol/summoners/las/SaisojPM-LAS"
     },
