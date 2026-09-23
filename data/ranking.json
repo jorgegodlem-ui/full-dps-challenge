@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-23T16:49:49.668Z",
+  "actualizado": "2026-09-23T19:53:04.600Z",
   "fuente": "riot-api",
   "jugadores": [
     {
@@ -10,15 +10,15 @@
       "estado": "activo",
       "puuid": "vGAZRDKOqJ7u-6a7MAXJXXbNiXJjN2a997f3fzGuBH_E6qwxJAik4CrryzixOWUPTilyXwwr6sq-fw",
       "tier": "PLATINO",
-      "division": "II",
-      "lp": 71,
-      "victorias": 55,
+      "division": "I",
+      "lp": 10,
+      "victorias": 57,
       "derrotas": 68,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 37,
+      "deltaLp": 76,
       "posAnterior": 3,
       "opgg": "https://op.gg/lol/summoners/las/Thortito-3013"
     },
@@ -50,15 +50,15 @@
       "estado": "activo",
       "puuid": "mZ0adpnkO3fZRD8rzYmSujJxgDl0qqXJpkX3Y5P9bkRMKwCyZFz1XbrrP2MjOux23FBlhIUK-CB4vA",
       "tier": "PLATINO",
-      "division": "III",
-      "lp": 98,
-      "victorias": 53,
+      "division": "II",
+      "lp": 22,
+      "victorias": 54,
       "derrotas": 36,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 74,
+      "deltaLp": 98,
       "posAnterior": 4,
       "opgg": "https://op.gg/lol/summoners/las/ShawKDT-LAS"
     },
@@ -158,7 +158,7 @@
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 89,
+      "deltaLp": 11,
       "posAnterior": 10,
       "opgg": "https://op.gg/lol/summoners/las/Franqueiro-LAS"
     },
@@ -211,14 +211,14 @@
       "puuid": "dMBELKxSjsMwVRo6Fx0bGo2Uk3E02VPK8kjEl0OaSVdJWZpLIHJEhyxLwsgSDqJnlTxKB-040MyF_Q",
       "tier": "ORO",
       "division": "II",
-      "lp": 18,
-      "victorias": 37,
+      "lp": 78,
+      "victorias": 39,
       "derrotas": 10,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 50,
+      "deltaLp": 110,
       "posAnterior": 7,
       "opgg": "https://op.gg/lol/summoners/las/SaisojPM-LAS"
     },
@@ -258,7 +258,7 @@
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 195,
+      "deltaLp": 177,
       "posAnterior": 1,
       "opgg": "https://op.gg/lol/summoners/las/gonzaimp-LAS"
     }
