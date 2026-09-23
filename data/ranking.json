@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-23T12:04:49.381Z",
+  "actualizado": "2026-09-23T16:49:49.668Z",
   "fuente": "riot-api",
   "jugadores": [
     {
@@ -11,14 +11,14 @@
       "puuid": "vGAZRDKOqJ7u-6a7MAXJXXbNiXJjN2a997f3fzGuBH_E6qwxJAik4CrryzixOWUPTilyXwwr6sq-fw",
       "tier": "PLATINO",
       "division": "II",
-      "lp": 12,
-      "victorias": 53,
+      "lp": 71,
+      "victorias": 55,
       "derrotas": 68,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": -22,
+      "deltaLp": 37,
       "posAnterior": 3,
       "opgg": "https://op.gg/lol/summoners/las/Thortito-3013"
     },
@@ -211,14 +211,14 @@
       "puuid": "dMBELKxSjsMwVRo6Fx0bGo2Uk3E02VPK8kjEl0OaSVdJWZpLIHJEhyxLwsgSDqJnlTxKB-040MyF_Q",
       "tier": "ORO",
       "division": "II",
-      "lp": 28,
+      "lp": 18,
       "victorias": 37,
-      "derrotas": 9,
+      "derrotas": 10,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 60,
+      "deltaLp": 50,
       "posAnterior": 7,
       "opgg": "https://op.gg/lol/summoners/las/SaisojPM-LAS"
     },
@@ -250,15 +250,15 @@
       "estado": "activo",
       "puuid": "deQZ-2Qwd8oq2gJcFhOhSZaN8b5KM5pof54aLJg7prYmGKYRgW90ewmKZBlBeMlRet_U0Ibs9-MrHg",
       "tier": "ESMERALDA",
-      "division": "III",
-      "lp": 56,
-      "victorias": 83,
-      "derrotas": 54,
+      "division": "II",
+      "lp": 10,
+      "victorias": 87,
+      "derrotas": 55,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 141,
+      "deltaLp": 195,
       "posAnterior": 1,
       "opgg": "https://op.gg/lol/summoners/las/gonzaimp-LAS"
     }
