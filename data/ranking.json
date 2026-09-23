@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-23T06:35:51.417Z",
+  "actualizado": "2026-09-23T12:04:49.381Z",
   "fuente": "riot-api",
   "jugadores": [
     {
@@ -59,7 +59,7 @@
         "n": 0
       },
       "deltaLp": 74,
-      "posAnterior": 5,
+      "posAnterior": 4,
       "opgg": "https://op.gg/lol/summoners/las/ShawKDT-LAS"
     },
     {
@@ -98,8 +98,8 @@
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 40,
-      "posAnterior": 12,
+      "deltaLp": 50,
+      "posAnterior": 11,
       "opgg": "https://op.gg/lol/summoners/las/Kromosomen-LPDWZ"
     },
     {
@@ -158,7 +158,7 @@
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 102,
+      "deltaLp": 89,
       "posAnterior": 10,
       "opgg": "https://op.gg/lol/summoners/las/Franqueiro-LAS"
     },
@@ -179,7 +179,7 @@
         "n": 0
       },
       "deltaLp": 10,
-      "posAnterior": 1,
+      "posAnterior": 2,
       "opgg": "https://op.gg/lol/summoners/las/NikyAll9-LAS"
     },
     {
@@ -199,7 +199,7 @@
         "n": 0
       },
       "deltaLp": -38,
-      "posAnterior": 4,
+      "posAnterior": 5,
       "opgg": "https://op.gg/lol/summoners/las/Chapayev-LAS"
     },
     {
@@ -239,7 +239,7 @@
         "n": 0
       },
       "deltaLp": 0,
-      "posAnterior": 11,
+      "posAnterior": 12,
       "opgg": "https://op.gg/lol/summoners/las/Jack0t-LAS"
     },
     {
@@ -251,15 +251,15 @@
       "puuid": "deQZ-2Qwd8oq2gJcFhOhSZaN8b5KM5pof54aLJg7prYmGKYRgW90ewmKZBlBeMlRet_U0Ibs9-MrHg",
       "tier": "ESMERALDA",
       "division": "III",
-      "lp": 25,
-      "victorias": 80,
-      "derrotas": 53,
+      "lp": 56,
+      "victorias": 83,
+      "derrotas": 54,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 87,
-      "posAnterior": 2,
+      "deltaLp": 141,
+      "posAnterior": 1,
       "opgg": "https://op.gg/lol/summoners/las/gonzaimp-LAS"
     }
   ]
