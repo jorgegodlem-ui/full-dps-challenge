@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-24T06:14:33.159Z",
+  "actualizado": "2026-09-24T11:56:47.323Z",
   "fuente": "riot-api",
   "jugadores": [
     {
@@ -18,7 +18,7 @@
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 96,
+      "deltaLp": 98,
       "posAnterior": 3,
       "opgg": "https://op.gg/lol/summoners/las/Thortito-3013"
     },
@@ -58,7 +58,7 @@
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 106,
+      "deltaLp": 32,
       "posAnterior": 4,
       "opgg": "https://op.gg/lol/summoners/las/ShawKDT-LAS"
     },
@@ -98,7 +98,7 @@
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 40,
+      "deltaLp": -10,
       "posAnterior": 11,
       "opgg": "https://op.gg/lol/summoners/las/Kromosomen-LPDWZ"
     },
@@ -198,7 +198,7 @@
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": -19,
+      "deltaLp": 0,
       "posAnterior": 5,
       "opgg": "https://op.gg/lol/summoners/las/Chapayev-LAS"
     },
@@ -218,7 +218,7 @@
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 100,
+      "deltaLp": 80,
       "posAnterior": 7,
       "opgg": "https://op.gg/lol/summoners/las/SaisojPM-LAS"
     },
@@ -258,7 +258,7 @@
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 163,
+      "deltaLp": 81,
       "posAnterior": 1,
       "opgg": "https://op.gg/lol/summoners/las/gonzaimp-LAS"
     }
