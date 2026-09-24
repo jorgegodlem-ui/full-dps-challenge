@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-24T11:56:47.323Z",
+  "actualizado": "2026-09-24T17:02:40.578Z",
   "fuente": "riot-api",
   "jugadores": [
     {
@@ -18,7 +18,7 @@
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 98,
+      "deltaLp": 39,
       "posAnterior": 3,
       "opgg": "https://op.gg/lol/summoners/las/Thortito-3013"
     },
@@ -218,7 +218,7 @@
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 80,
+      "deltaLp": 90,
       "posAnterior": 7,
       "opgg": "https://op.gg/lol/summoners/las/SaisojPM-LAS"
     },
@@ -250,15 +250,15 @@
       "estado": "activo",
       "puuid": "deQZ-2Qwd8oq2gJcFhOhSZaN8b5KM5pof54aLJg7prYmGKYRgW90ewmKZBlBeMlRet_U0Ibs9-MrHg",
       "tier": "ESMERALDA",
-      "division": "II",
-      "lp": 6,
+      "division": "III",
+      "lp": 85,
       "victorias": 89,
-      "derrotas": 57,
+      "derrotas": 58,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 81,
+      "deltaLp": -25,
       "posAnterior": 1,
       "opgg": "https://op.gg/lol/summoners/las/gonzaimp-LAS"
     }
