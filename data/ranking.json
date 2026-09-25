@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-25T12:20:18.298Z",
+  "actualizado": "2026-09-25T17:20:24.899Z",
   "fuente": "riot-api",
   "jugadores": [
     {
@@ -211,14 +211,14 @@
       "puuid": "dMBELKxSjsMwVRo6Fx0bGo2Uk3E02VPK8kjEl0OaSVdJWZpLIHJEhyxLwsgSDqJnlTxKB-040MyF_Q",
       "tier": "ORO",
       "division": "I",
-      "lp": 78,
+      "lp": 68,
       "victorias": 43,
-      "derrotas": 12,
+      "derrotas": 13,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 70,
+      "deltaLp": 60,
       "posAnterior": 7,
       "opgg": "https://op.gg/lol/summoners/las/SaisojPM-LAS"
     },
@@ -252,13 +252,13 @@
       "tier": "ESMERALDA",
       "division": "II",
       "lp": 84,
-      "victorias": 96,
-      "derrotas": 60,
+      "victorias": 97,
+      "derrotas": 61,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 78,
+      "deltaLp": 99,
       "posAnterior": 1,
       "opgg": "https://op.gg/lol/summoners/las/gonzaimp-LAS"
     }
