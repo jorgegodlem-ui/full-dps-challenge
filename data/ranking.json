@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-25T01:50:53.162Z",
+  "actualizado": "2026-09-25T06:43:51.978Z",
   "fuente": "riot-api",
   "jugadores": [
     {
@@ -90,15 +90,15 @@
       "estado": "activo",
       "puuid": "pEu4T-qxKloLk2FEBNJhpg8ckpjFoN1aOgz9-c4quJE1UYzSqIHt1EhPKG-SABjsm5GbKgVLoZNSCw",
       "tier": "PLATA",
-      "division": "III",
-      "lp": 12,
+      "division": "IV",
+      "lp": 92,
       "victorias": 20,
-      "derrotas": 17,
+      "derrotas": 19,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": -20,
+      "deltaLp": -30,
       "posAnterior": 11,
       "opgg": "https://op.gg/lol/summoners/las/Kromosomen-LPDWZ"
     },
@@ -218,7 +218,7 @@
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 100,
+      "deltaLp": 70,
       "posAnterior": 7,
       "opgg": "https://op.gg/lol/summoners/las/SaisojPM-LAS"
     },
@@ -251,14 +251,14 @@
       "puuid": "deQZ-2Qwd8oq2gJcFhOhSZaN8b5KM5pof54aLJg7prYmGKYRgW90ewmKZBlBeMlRet_U0Ibs9-MrHg",
       "tier": "ESMERALDA",
       "division": "II",
-      "lp": 44,
-      "victorias": 93,
-      "derrotas": 59,
+      "lp": 84,
+      "victorias": 96,
+      "derrotas": 60,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 34,
+      "deltaLp": 78,
       "posAnterior": 1,
       "opgg": "https://op.gg/lol/summoners/las/gonzaimp-LAS"
     }
