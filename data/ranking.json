@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-26T01:54:15.882Z",
+  "actualizado": "2026-09-26T07:32:08.973Z",
   "fuente": "riot-api",
   "jugadores": [
     {
@@ -98,7 +98,7 @@
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": -30,
+      "deltaLp": -10,
       "posAnterior": 12,
       "opgg": "https://op.gg/lol/summoners/las/Kromosomen-LPDWZ"
     },
@@ -251,14 +251,14 @@
       "puuid": "deQZ-2Qwd8oq2gJcFhOhSZaN8b5KM5pof54aLJg7prYmGKYRgW90ewmKZBlBeMlRet_U0Ibs9-MrHg",
       "tier": "ESMERALDA",
       "division": "II",
-      "lp": 84,
+      "lp": 64,
       "victorias": 101,
-      "derrotas": 65,
+      "derrotas": 66,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 40,
+      "deltaLp": -20,
       "posAnterior": 1,
       "opgg": "https://op.gg/lol/summoners/las/gonzaimp-LAS"
     }
