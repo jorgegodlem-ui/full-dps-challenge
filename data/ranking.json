@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-26T16:42:54.594Z",
+  "actualizado": "2026-09-26T19:27:32.216Z",
   "fuente": "riot-api",
   "jugadores": [
     {
@@ -218,7 +218,7 @@
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": -10,
+      "deltaLp": 0,
       "posAnterior": 7,
       "opgg": "https://op.gg/lol/summoners/las/SaisojPM-LAS"
     },
