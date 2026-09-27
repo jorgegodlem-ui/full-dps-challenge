@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-27T10:51:58.623Z",
+  "actualizado": "2026-09-27T15:24:11.641Z",
   "fuente": "riot-api",
   "jugadores": [
     {
@@ -171,14 +171,14 @@
       "puuid": "8wTWdJskpI0FXC4gPF7em-Rk8hfhbB38s34apQUtxoWcWpy87e46i7pifdSGmDPWGqQcnK2V9OcwmQ",
       "tier": "ESMERALDA",
       "division": "IV",
-      "lp": 42,
+      "lp": 10,
       "victorias": 64,
-      "derrotas": 35,
+      "derrotas": 37,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 0,
+      "deltaLp": -32,
       "posAnterior": 2,
       "opgg": "https://op.gg/lol/summoners/las/NikyAll9-LAS"
     },
@@ -250,15 +250,15 @@
       "estado": "activo",
       "puuid": "deQZ-2Qwd8oq2gJcFhOhSZaN8b5KM5pof54aLJg7prYmGKYRgW90ewmKZBlBeMlRet_U0Ibs9-MrHg",
       "tier": "ESMERALDA",
-      "division": "II",
-      "lp": 47,
-      "victorias": 106,
-      "derrotas": 73,
+      "division": "III",
+      "lp": 82,
+      "victorias": 107,
+      "derrotas": 77,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": -17,
+      "deltaLp": -82,
       "posAnterior": 1,
       "opgg": "https://op.gg/lol/summoners/las/gonzaimp-LAS"
     }
