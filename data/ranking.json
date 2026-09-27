@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-27T15:24:11.641Z",
+  "actualizado": "2026-09-27T19:14:10.171Z",
   "fuente": "riot-api",
   "jugadores": [
     {
@@ -78,7 +78,7 @@
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 20,
+      "deltaLp": 0,
       "posAnterior": 9,
       "opgg": "https://op.gg/lol/summoners/las/TeCarreoOniiChan-LAS"
     },
@@ -209,16 +209,16 @@
       "rol": "JUNGLA",
       "estado": "activo",
       "puuid": "dMBELKxSjsMwVRo6Fx0bGo2Uk3E02VPK8kjEl0OaSVdJWZpLIHJEhyxLwsgSDqJnlTxKB-040MyF_Q",
-      "tier": "ORO",
-      "division": "I",
-      "lp": 68,
-      "victorias": 43,
+      "tier": "PLATINO",
+      "division": "IV",
+      "lp": 28,
+      "victorias": 45,
       "derrotas": 13,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 0,
+      "deltaLp": 60,
       "posAnterior": 7,
       "opgg": "https://op.gg/lol/summoners/las/SaisojPM-LAS"
     },
