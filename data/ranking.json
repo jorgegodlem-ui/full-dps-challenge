@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-27T05:51:57.954Z",
+  "actualizado": "2026-09-27T10:51:58.623Z",
   "fuente": "riot-api",
   "jugadores": [
     {
@@ -251,14 +251,14 @@
       "puuid": "deQZ-2Qwd8oq2gJcFhOhSZaN8b5KM5pof54aLJg7prYmGKYRgW90ewmKZBlBeMlRet_U0Ibs9-MrHg",
       "tier": "ESMERALDA",
       "division": "II",
-      "lp": 68,
+      "lp": 47,
       "victorias": 106,
-      "derrotas": 72,
+      "derrotas": 73,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": -16,
+      "deltaLp": -17,
       "posAnterior": 1,
       "opgg": "https://op.gg/lol/summoners/las/gonzaimp-LAS"
     }
