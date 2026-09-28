@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-28T14:34:09.172Z",
+  "actualizado": "2026-09-28T20:44:50.037Z",
   "fuente": "riot-api",
   "jugadores": [
     {
@@ -71,14 +71,14 @@
       "puuid": "ZWd3crWmmZtxyA2OnDFQwW39VyFDanLDKwKbOEbLdK9QaKQy-FC_cLwYLypvMv2PqbOD8TMvxWw6OA",
       "tier": "ORO",
       "division": "III",
-      "lp": 36,
-      "victorias": 26,
-      "derrotas": 18,
+      "lp": 86,
+      "victorias": 28,
+      "derrotas": 19,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 90,
+      "deltaLp": 140,
       "posAnterior": 9,
       "opgg": "https://op.gg/lol/summoners/las/TeCarreoOniiChan-LAS"
     },
@@ -178,7 +178,7 @@
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": -32,
+      "deltaLp": 0,
       "posAnterior": 2,
       "opgg": "https://op.gg/lol/summoners/las/NikyAll9-LAS"
     },
@@ -218,7 +218,7 @@
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 90,
+      "deltaLp": 30,
       "posAnterior": 7,
       "opgg": "https://op.gg/lol/summoners/las/SaisojPM-LAS"
     },
@@ -258,7 +258,7 @@
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": -65,
+      "deltaLp": 0,
       "posAnterior": 1,
       "opgg": "https://op.gg/lol/summoners/las/gonzaimp-LAS"
     }
