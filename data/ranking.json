@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-28T06:41:04.487Z",
+  "actualizado": "2026-09-28T14:34:09.172Z",
   "fuente": "riot-api",
   "jugadores": [
     {
@@ -70,15 +70,15 @@
       "estado": "activo",
       "puuid": "ZWd3crWmmZtxyA2OnDFQwW39VyFDanLDKwKbOEbLdK9QaKQy-FC_cLwYLypvMv2PqbOD8TMvxWw6OA",
       "tier": "ORO",
-      "division": "IV",
-      "lp": 46,
-      "victorias": 23,
+      "division": "III",
+      "lp": 36,
+      "victorias": 26,
       "derrotas": 18,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 0,
+      "deltaLp": 90,
       "posAnterior": 9,
       "opgg": "https://op.gg/lol/summoners/las/TeCarreoOniiChan-LAS"
     },
@@ -258,7 +258,7 @@
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": -86,
+      "deltaLp": -65,
       "posAnterior": 1,
       "opgg": "https://op.gg/lol/summoners/las/gonzaimp-LAS"
     }
