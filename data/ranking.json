@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-29T18:35:09.009Z",
+  "actualizado": "2026-09-29T22:34:13.360Z",
   "fuente": "riot-api",
   "jugadores": [
     {
@@ -70,15 +70,15 @@
       "estado": "activo",
       "puuid": "ZWd3crWmmZtxyA2OnDFQwW39VyFDanLDKwKbOEbLdK9QaKQy-FC_cLwYLypvMv2PqbOD8TMvxWw6OA",
       "tier": "ORO",
-      "division": "II",
-      "lp": 76,
-      "victorias": 32,
-      "derrotas": 22,
+      "division": "I",
+      "lp": 56,
+      "victorias": 35,
+      "derrotas": 23,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 140,
+      "deltaLp": 170,
       "posAnterior": 8,
       "opgg": "https://op.gg/lol/summoners/las/TeCarreoOniiChan-LAS"
     },
