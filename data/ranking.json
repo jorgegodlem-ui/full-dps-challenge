@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-28T20:44:50.037Z",
+  "actualizado": "2026-09-29T00:36:52.897Z",
   "fuente": "riot-api",
   "jugadores": [
     {
@@ -51,8 +51,8 @@
       "puuid": "mZ0adpnkO3fZRD8rzYmSujJxgDl0qqXJpkX3Y5P9bkRMKwCyZFz1XbrrP2MjOux23FBlhIUK-CB4vA",
       "tier": "PLATINO",
       "division": "II",
-      "lp": 62,
-      "victorias": 57,
+      "lp": 86,
+      "victorias": 58,
       "derrotas": 38,
       "racha": {
         "tipo": "W",
@@ -70,15 +70,15 @@
       "estado": "activo",
       "puuid": "ZWd3crWmmZtxyA2OnDFQwW39VyFDanLDKwKbOEbLdK9QaKQy-FC_cLwYLypvMv2PqbOD8TMvxWw6OA",
       "tier": "ORO",
-      "division": "III",
-      "lp": 86,
-      "victorias": 28,
-      "derrotas": 19,
+      "division": "II",
+      "lp": 6,
+      "victorias": 29,
+      "derrotas": 20,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 140,
+      "deltaLp": 160,
       "posAnterior": 9,
       "opgg": "https://op.gg/lol/summoners/las/TeCarreoOniiChan-LAS"
     },
@@ -218,7 +218,7 @@
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 30,
+      "deltaLp": 0,
       "posAnterior": 7,
       "opgg": "https://op.gg/lol/summoners/las/SaisojPM-LAS"
     },
