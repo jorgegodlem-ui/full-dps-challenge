@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-30T07:18:55.648Z",
+  "actualizado": "2026-09-30T13:54:10.280Z",
   "fuente": "riot-api",
   "jugadores": [
     {
@@ -78,7 +78,7 @@
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 150,
+      "deltaLp": 120,
       "posAnterior": 8,
       "opgg": "https://op.gg/lol/summoners/las/TeCarreoOniiChan-LAS"
     },
@@ -249,16 +249,16 @@
       "rol": "SUPPORT",
       "estado": "activo",
       "puuid": "deQZ-2Qwd8oq2gJcFhOhSZaN8b5KM5pof54aLJg7prYmGKYRgW90ewmKZBlBeMlRet_U0Ibs9-MrHg",
-      "tier": "ESMERALDA",
-      "division": "III",
-      "lp": 59,
+      "tier": "PLATA",
+      "division": "IV",
+      "lp": 60,
       "victorias": 108,
       "derrotas": 80,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 0,
+      "deltaLp": -1299,
       "posAnterior": 1,
       "opgg": "https://op.gg/lol/summoners/las/gonzaimp-LAS"
     }
