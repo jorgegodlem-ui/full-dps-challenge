@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-30T19:07:14.534Z",
+  "actualizado": "2026-09-30T22:58:59.878Z",
   "fuente": "riot-api",
   "jugadores": [
     {
@@ -10,15 +10,15 @@
       "estado": "activo",
       "puuid": "vGAZRDKOqJ7u-6a7MAXJXXbNiXJjN2a997f3fzGuBH_E6qwxJAik4CrryzixOWUPTilyXwwr6sq-fw",
       "tier": "PLATINO",
-      "division": "I",
-      "lp": 10,
+      "division": "II",
+      "lp": 70,
       "victorias": 57,
-      "derrotas": 68,
+      "derrotas": 70,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 0,
+      "deltaLp": -40,
       "posAnterior": 2,
       "opgg": "https://op.gg/lol/summoners/las/Thortito-3013"
     },
@@ -31,14 +31,14 @@
       "puuid": "fBWMr9ozyBNpxp4rxFGrDuMhWRJX1ioTDEG6Sj51YbSpJ-KBHxnK53EkvDzKuYThcllDZwxaykT8jQ",
       "tier": "PLATINO",
       "division": "III",
-      "lp": 37,
-      "victorias": 21,
+      "lp": 67,
+      "victorias": 22,
       "derrotas": 13,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 0,
+      "deltaLp": 30,
       "posAnterior": 5,
       "opgg": "https://op.gg/lol/summoners/las/Chutinho-Chuto"
     },
@@ -71,14 +71,14 @@
       "puuid": "ZWd3crWmmZtxyA2OnDFQwW39VyFDanLDKwKbOEbLdK9QaKQy-FC_cLwYLypvMv2PqbOD8TMvxWw6OA",
       "tier": "ORO",
       "division": "I",
-      "lp": 56,
+      "lp": 46,
       "victorias": 35,
-      "derrotas": 23,
+      "derrotas": 24,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 80,
+      "deltaLp": -10,
       "posAnterior": 7,
       "opgg": "https://op.gg/lol/summoners/las/TeCarreoOniiChan-LAS"
     },
@@ -191,14 +191,14 @@
       "puuid": "ZOr_7E_pswbFnzOvvqN1NUED0ZMCoDT3Hk7BvQvXoiNhYXicNZWkQ5P6DqIBRt2BgHgOFdrOsLmgxQ",
       "tier": "PLATINO",
       "division": "III",
-      "lp": 60,
+      "lp": 39,
       "victorias": 35,
-      "derrotas": 38,
+      "derrotas": 39,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": -2,
+      "deltaLp": -23,
       "posAnterior": 4,
       "opgg": "https://op.gg/lol/summoners/las/Chapayev-LAS"
     },
