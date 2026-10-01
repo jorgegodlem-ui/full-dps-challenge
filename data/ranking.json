@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-01T08:45:09.536Z",
+  "actualizado": "2026-10-01T15:43:15.123Z",
   "fuente": "riot-api",
   "jugadores": [
     {
@@ -258,7 +258,7 @@
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": -1299,
+      "deltaLp": 0,
       "posAnterior": 12,
       "opgg": "https://op.gg/lol/summoners/las/gonzaimp-LAS"
     }
