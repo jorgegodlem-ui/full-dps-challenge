@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-02T00:09:24.199Z",
+  "actualizado": "2026-10-02T05:50:34.752Z",
   "fuente": "riot-api",
   "jugadores": [
     {
@@ -10,15 +10,15 @@
       "estado": "activo",
       "puuid": "vGAZRDKOqJ7u-6a7MAXJXXbNiXJjN2a997f3fzGuBH_E6qwxJAik4CrryzixOWUPTilyXwwr6sq-fw",
       "tier": "PLATINO",
-      "division": "II",
-      "lp": 90,
-      "victorias": 58,
+      "division": "I",
+      "lp": 9,
+      "victorias": 59,
       "derrotas": 71,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 20,
+      "deltaLp": 19,
       "posAnterior": 2,
       "opgg": "https://op.gg/lol/summoners/las/Thortito-3013"
     },
@@ -31,14 +31,14 @@
       "puuid": "fBWMr9ozyBNpxp4rxFGrDuMhWRJX1ioTDEG6Sj51YbSpJ-KBHxnK53EkvDzKuYThcllDZwxaykT8jQ",
       "tier": "PLATINO",
       "division": "II",
-      "lp": 27,
-      "victorias": 23,
+      "lp": 57,
+      "victorias": 24,
       "derrotas": 13,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 60,
+      "deltaLp": 90,
       "posAnterior": 4,
       "opgg": "https://op.gg/lol/summoners/las/Chutinho-Chuto"
     },
@@ -198,7 +198,7 @@
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 17,
+      "deltaLp": 19,
       "posAnterior": 5,
       "opgg": "https://op.gg/lol/summoners/las/Chapayev-LAS"
     },
