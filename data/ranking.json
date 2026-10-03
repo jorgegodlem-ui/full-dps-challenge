@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-02T21:03:26.190Z",
+  "actualizado": "2026-10-03T00:24:29.231Z",
   "fuente": "riot-api",
   "jugadores": [
     {
@@ -38,7 +38,7 @@
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 70,
+      "deltaLp": 10,
       "posAnterior": 4,
       "opgg": "https://op.gg/lol/summoners/las/Chutinho-Chuto"
     },
