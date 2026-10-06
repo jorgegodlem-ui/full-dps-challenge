@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-05T22:53:07.123Z",
+  "actualizado": "2026-10-06T02:53:41.169Z",
   "fuente": "riot-api",
   "jugadores": [
     {
@@ -38,8 +38,8 @@
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 80,
-      "posAnterior": 4,
+      "deltaLp": 60,
+      "posAnterior": 3,
       "opgg": "https://op.gg/lol/summoners/las/Chutinho-Chuto"
     },
     {
@@ -59,7 +59,7 @@
         "n": 0
       },
       "deltaLp": 0,
-      "posAnterior": 3,
+      "posAnterior": 4,
       "opgg": "https://op.gg/lol/summoners/las/ShawKDT-LAS"
     },
     {
