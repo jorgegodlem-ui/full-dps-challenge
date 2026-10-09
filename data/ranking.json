@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-09T02:31:05.337Z",
+  "actualizado": "2026-10-09T09:33:40.701Z",
   "fuente": "riot-api",
   "jugadores": [
     {
@@ -38,7 +38,7 @@
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": -40,
+      "deltaLp": -30,
       "posAnterior": 4,
       "opgg": "https://op.gg/lol/summoners/las/Chutinho-Chuto"
     },
@@ -90,15 +90,15 @@
       "estado": "activo",
       "puuid": "pEu4T-qxKloLk2FEBNJhpg8ckpjFoN1aOgz9-c4quJE1UYzSqIHt1EhPKG-SABjsm5GbKgVLoZNSCw",
       "tier": "PLATA",
-      "division": "III",
-      "lp": 82,
-      "victorias": 26,
-      "derrotas": 29,
+      "division": "II",
+      "lp": 32,
+      "victorias": 28,
+      "derrotas": 30,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": -50,
+      "deltaLp": 0,
       "posAnterior": 10,
       "opgg": "https://op.gg/lol/summoners/las/Kromosomen-LPDWZ"
     },
