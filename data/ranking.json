@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-12T16:11:12.054Z",
+  "actualizado": "2026-10-12T23:03:37.849Z",
   "fuente": "riot-api",
   "jugadores": [
     {
@@ -171,14 +171,14 @@
       "puuid": "8wTWdJskpI0FXC4gPF7em-Rk8hfhbB38s34apQUtxoWcWpy87e46i7pifdSGmDPWGqQcnK2V9OcwmQ",
       "tier": "ESMERALDA",
       "division": "IV",
-      "lp": 10,
-      "victorias": 64,
-      "derrotas": 37,
+      "lp": 1,
+      "victorias": 65,
+      "derrotas": 39,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 0,
+      "deltaLp": -9,
       "posAnterior": 1,
       "opgg": "https://op.gg/lol/summoners/las/NikyAll9-LAS"
     },
