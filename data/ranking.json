@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-12T23:03:37.849Z",
+  "actualizado": "2026-10-13T03:30:08.075Z",
   "fuente": "riot-api",
   "jugadores": [
     {
@@ -31,14 +31,14 @@
       "puuid": "fBWMr9ozyBNpxp4rxFGrDuMhWRJX1ioTDEG6Sj51YbSpJ-KBHxnK53EkvDzKuYThcllDZwxaykT8jQ",
       "tier": "PLATINO",
       "division": "II",
-      "lp": 97,
+      "lp": 87,
       "victorias": 29,
-      "derrotas": 24,
+      "derrotas": 25,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 40,
+      "deltaLp": 20,
       "posAnterior": 2,
       "opgg": "https://op.gg/lol/summoners/las/Chutinho-Chuto"
     },
