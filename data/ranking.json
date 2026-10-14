@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-14T17:33:30.377Z",
+  "actualizado": "2026-10-14T20:56:17.950Z",
   "fuente": "riot-api",
   "jugadores": [
     {
@@ -31,9 +31,9 @@
       "puuid": "fBWMr9ozyBNpxp4rxFGrDuMhWRJX1ioTDEG6Sj51YbSpJ-KBHxnK53EkvDzKuYThcllDZwxaykT8jQ",
       "tier": "PLATINO",
       "division": "II",
-      "lp": 57,
+      "lp": 47,
       "victorias": 29,
-      "derrotas": 28,
+      "derrotas": 29,
       "racha": {
         "tipo": "W",
         "n": 0
@@ -91,9 +91,9 @@
       "puuid": "pEu4T-qxKloLk2FEBNJhpg8ckpjFoN1aOgz9-c4quJE1UYzSqIHt1EhPKG-SABjsm5GbKgVLoZNSCw",
       "tier": "PLATA",
       "division": "II",
-      "lp": 72,
+      "lp": 62,
       "victorias": 31,
-      "derrotas": 36,
+      "derrotas": 37,
       "racha": {
         "tipo": "W",
         "n": 0
@@ -191,14 +191,14 @@
       "puuid": "ZOr_7E_pswbFnzOvvqN1NUED0ZMCoDT3Hk7BvQvXoiNhYXicNZWkQ5P6DqIBRt2BgHgOFdrOsLmgxQ",
       "tier": "PLATINO",
       "division": "III",
-      "lp": 56,
+      "lp": 36,
       "victorias": 37,
-      "derrotas": 40,
+      "derrotas": 41,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 0,
+      "deltaLp": -20,
       "posAnterior": 5,
       "opgg": "https://op.gg/lol/summoners/las/Chapayev-LAS"
     },
