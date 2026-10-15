@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-14T23:52:21.881Z",
+  "actualizado": "2026-10-15T01:58:11.596Z",
   "fuente": "riot-api",
   "jugadores": [
     {
@@ -38,7 +38,7 @@
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": -30,
+      "deltaLp": -20,
       "posAnterior": 4,
       "opgg": "https://op.gg/lol/summoners/las/Chutinho-Chuto"
     },
@@ -91,14 +91,14 @@
       "puuid": "pEu4T-qxKloLk2FEBNJhpg8ckpjFoN1aOgz9-c4quJE1UYzSqIHt1EhPKG-SABjsm5GbKgVLoZNSCw",
       "tier": "PLATA",
       "division": "II",
-      "lp": 62,
+      "lp": 42,
       "victorias": 31,
-      "derrotas": 37,
+      "derrotas": 39,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 30,
+      "deltaLp": 10,
       "posAnterior": 10,
       "opgg": "https://op.gg/lol/summoners/las/Kromosomen-LPDWZ"
     },
@@ -150,15 +150,15 @@
       "estado": "activo",
       "puuid": "ZaLNjUebsrFEzw386bIdBjigy-aLpkVXjyMNeq6xaowC6T8E7wK0NOzSjwBooiI-yn30eBIIt6tltA",
       "tier": "PLATA",
-      "division": "I",
-      "lp": 20,
+      "division": "II",
+      "lp": 88,
       "victorias": 44,
-      "derrotas": 31,
+      "derrotas": 33,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 0,
+      "deltaLp": -32,
       "posAnterior": 9,
       "opgg": "https://op.gg/lol/summoners/las/Franqueiro-LAS"
     },
