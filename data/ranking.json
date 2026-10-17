@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-17T04:41:20.558Z",
+  "actualizado": "2026-10-17T08:51:43.525Z",
   "fuente": "riot-api",
   "jugadores": [
     {
@@ -99,7 +99,7 @@
         "n": 0
       },
       "deltaLp": 0,
-      "posAnterior": 9,
+      "posAnterior": 10,
       "opgg": "https://op.gg/lol/summoners/las/Kromosomen-LPDWZ"
     },
     {
@@ -159,7 +159,7 @@
         "n": 0
       },
       "deltaLp": 23,
-      "posAnterior": 10,
+      "posAnterior": 9,
       "opgg": "https://op.gg/lol/summoners/las/Franqueiro-LAS"
     },
     {
