@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-17T18:24:03.594Z",
+  "actualizado": "2026-10-17T20:53:40.879Z",
   "fuente": "riot-api",
   "jugadores": [
     {
@@ -89,17 +89,17 @@
       "rol": "MEDIO",
       "estado": "activo",
       "puuid": "pEu4T-qxKloLk2FEBNJhpg8ckpjFoN1aOgz9-c4quJE1UYzSqIHt1EhPKG-SABjsm5GbKgVLoZNSCw",
-      "tier": "PLATA",
-      "division": "I",
-      "lp": 27,
-      "victorias": 35,
+      "tier": "ORO",
+      "division": "IV",
+      "lp": 14,
+      "victorias": 37,
       "derrotas": 42,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 29,
-      "posAnterior": 10,
+      "deltaLp": 116,
+      "posAnterior": 9,
       "opgg": "https://op.gg/lol/summoners/las/Kromosomen-LPDWZ"
     },
     {
@@ -159,7 +159,7 @@
         "n": 0
       },
       "deltaLp": 23,
-      "posAnterior": 9,
+      "posAnterior": 10,
       "opgg": "https://op.gg/lol/summoners/las/Franqueiro-LAS"
     },
     {
