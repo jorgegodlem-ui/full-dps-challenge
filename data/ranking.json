@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-18T17:15:38.797Z",
+  "actualizado": "2026-10-18T19:28:20.352Z",
   "fuente": "riot-api",
   "jugadores": [
     {
@@ -98,7 +98,7 @@
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 227,
+      "deltaLp": 198,
       "posAnterior": 9,
       "opgg": "https://op.gg/lol/summoners/las/Kromosomen-LPDWZ"
     },
