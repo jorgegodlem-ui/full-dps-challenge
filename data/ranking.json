@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-18T00:52:45.386Z",
+  "actualizado": "2026-10-18T05:44:58.963Z",
   "fuente": "riot-api",
   "jugadores": [
     {
@@ -158,7 +158,7 @@
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 23,
+      "deltaLp": 0,
       "posAnterior": 10,
       "opgg": "https://op.gg/lol/summoners/las/Franqueiro-LAS"
     },
