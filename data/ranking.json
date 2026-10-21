@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-21T14:38:28.932Z",
+  "actualizado": "2026-10-21T18:59:10.469Z",
   "fuente": "riot-api",
   "jugadores": [
     {
@@ -150,15 +150,15 @@
       "estado": "activo",
       "puuid": "ZaLNjUebsrFEzw386bIdBjigy-aLpkVXjyMNeq6xaowC6T8E7wK0NOzSjwBooiI-yn30eBIIt6tltA",
       "tier": "PLATA",
-      "division": "I",
-      "lp": 11,
+      "division": "II",
+      "lp": 89,
       "victorias": 45,
-      "derrotas": 33,
+      "derrotas": 35,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 0,
+      "deltaLp": -22,
       "posAnterior": 10,
       "opgg": "https://op.gg/lol/summoners/las/Franqueiro-LAS"
     },
