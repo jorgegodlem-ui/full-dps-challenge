@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-23T01:01:17.582Z",
+  "actualizado": "2026-10-23T05:56:49.376Z",
   "fuente": "riot-api",
   "jugadores": [
     {
@@ -91,14 +91,14 @@
       "puuid": "pEu4T-qxKloLk2FEBNJhpg8ckpjFoN1aOgz9-c4quJE1UYzSqIHt1EhPKG-SABjsm5GbKgVLoZNSCw",
       "tier": "ORO",
       "division": "III",
-      "lp": 61,
+      "lp": 46,
       "victorias": 44,
-      "derrotas": 47,
+      "derrotas": 48,
       "racha": {
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": -14,
+      "deltaLp": -29,
       "posAnterior": 9,
       "opgg": "https://op.gg/lol/summoners/las/Kromosomen-LPDWZ"
     },
