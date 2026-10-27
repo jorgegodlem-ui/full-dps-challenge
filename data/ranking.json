@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-27T12:24:47.813Z",
+  "actualizado": "2026-10-27T18:12:27.941Z",
   "fuente": "riot-api",
   "jugadores": [
     {
@@ -238,7 +238,7 @@
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": -15,
+      "deltaLp": 0,
       "posAnterior": 11,
       "opgg": "https://op.gg/lol/summoners/las/Jack0t-LAS"
     },
