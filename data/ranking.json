@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-27T18:12:27.941Z",
+  "actualizado": "2026-10-27T22:24:01.519Z",
   "fuente": "riot-api",
   "jugadores": [
     {
@@ -178,7 +178,7 @@
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": 23,
+      "deltaLp": 0,
       "posAnterior": 1,
       "opgg": "https://op.gg/lol/summoners/las/NikyAll9-LAS"
     },
