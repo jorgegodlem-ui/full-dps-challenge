@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-30T23:09:09.502Z",
+  "actualizado": "2026-10-31T02:30:06.050Z",
   "fuente": "riot-api",
   "jugadores": [
     {
@@ -178,7 +178,7 @@
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": -17,
+      "deltaLp": 0,
       "posAnterior": 1,
       "opgg": "https://op.gg/lol/summoners/las/NikyAll9-LAS"
     },
@@ -218,7 +218,7 @@
         "tipo": "W",
         "n": 0
       },
-      "deltaLp": -10,
+      "deltaLp": 0,
       "posAnterior": 6,
       "opgg": "https://op.gg/lol/summoners/las/SaisojPM-LAS"
     },
